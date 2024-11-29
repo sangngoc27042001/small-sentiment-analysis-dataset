@@ -1,0 +1,4170 @@
+[
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Em mua hai loại bánh, tặng bạn vị chocolate, bạn khen ngon lắm.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Em để ở nhà ăn vị matcha thì thấy bị chua chua.",
+                "problem": "Bánh vị matcha bị chua không bình thường",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Em ăn bánh bên mình hoài thấy ngon lắm, mà nay bánh này bị chua, huhu.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Dạ, không, nó kiểu chua bị kỳ kỳ, vì em đã ăn qua bánh này rồi.",
+                "problem": "Bánh vị matcha có vị chua kỳ lạ",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Em đưa bạn em ăn thử, bạn cũng nói vậy á.",
+                "problem": "Bánh vị matcha có vị chua kỳ lạ",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Chocolate có chua nhưng là chua kiểu béo của kem cheese, còn matcha thì chua khác á shop, huhu.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon á, được mấy chị chỗ tôi khen nè.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Nhưng mà nước trà bên mình đưa trà cốt hả? Tôi uống cà phê :))) Đắng nghét luôn á.",
+                "problem": "Khách hàng nhận được trà thay vì cà phê",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Cho em hỏi là nếu tới quán mua thì có bánh không ạ?",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Em sợ qua đó không còn mấy loại bánh, đặc biệt là bánh croissant.",
+                "problem": "Lo ngại về việc hết hàng",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh đợt này giòn hơn đợt trước",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "không còn thơm mùi trà nữa",
+                "problem": "Mùi vị không như mong đợi",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Cảm ơn bạn đã quan tâm đến Aroma Bakery, chúng tôi sẽ trả lời tin nhắn của bạn trong vài phút",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Bánh vị kem lần này béo quá",
+                "problem": "Vị kem không phù hợp",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Đợt trước mùi trà bá tước rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Hình như nhân kem không đều ấy.",
+                "problem": "Nhân kem không đều",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Hai cái vị trà thì một cái có chút vị, một cái không có vị nào.",
+                "problem": "Vị trà không đồng nhất",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bạn ơi, bạn có thể cho mình xin địa chỉ để bên mình tra phí ship không?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Phí ship là 63K bạn nhé.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Bạn có muốn đặt Grab không?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Nếu vậy thì thôi, bạn hoàn cọc giúp mình nhé.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Mình tự đặt cũng chỉ 60K thôi bạn ơi.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Bạn đã hoàn cọc cho mình chưa?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bạn ơi, Cho mình đặt bánh hôm nay được không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, mình cảm ơn.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Sao em thấy trên Grab không có vậy ạ?",
+                "problem": "Sản phẩm không có trên Grab",
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Hiện nay còn slot bánh không ạ?",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Huhu, em có đặt trước bánh rồi, mà gọi báo em hết nên em cũng hơi buồn nha shop ơi :(( Em đặt trước cả tuần luôn. Em hơi buồn nha shop ơi :(( Em đặt trước, xác nhận đơn rõ ràng huhu. Em hơi buồn thôi :(((",
+                "problem": "Hết hàng dù đã đặt trước",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Dạ thôi mà bánh shop ngon lắm. Nên em sẽ ủng hộ ạaaa. Dạ bánh ngon ạaa, không sao, nên em vẫn sẽ ủng hộ ạaaaa 🥰🥰 Thả 1000 trái tim.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Mình còn nhận bánh vào ngày nào ạ? Với lại em đặt roll croissant socola mà giao dâu cho em… :(((( Tại em không ăn dâu được… Huhu :(((",
+                "problem": "Giao hàng sai sản phẩm",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Hết sô-cô-la và hạt dẻ cười rồi ạ? :(",
+                "problem": "Thiếu hàng",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Hôm qua em gần tới nơi thì tiệm báo hết hàng.",
+                "problem": "Hết hàng khi khách hàng gần tới nơi",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "I texted the shop and they said they still had some, but when I called right after, they said they were out of stock, so I didn't go.",
+                "problem": "Inconsistent information about product availability",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "I understand now, but yesterday I called around 7:50 AM to ask if the shop would have any extra cakes for individual customers today.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "You said that there were only cakes for pre-orders.",
+                "problem": "Limited availability for walk-in customers",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "I just called to confirm before coming to buy, not to ask you to hold any for me.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Previously, when I called, the staff also mentioned that all the cakes were reserved for customers, so there were none left.",
+                "problem": "No availability for non-preorder customers",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "À, dạ vâng, thế để em đặt sau ạ, tại giờ em đang thèm nên định đặt luôn 🥹.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Shop ơi, shop có giao nhầm địa chỉ không ạ?",
+                "problem": "Giao nhầm địa chỉ",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tại vì shipper mới gọi cho em, bảo là đang ở đường số 37 gì đó.",
+                "problem": "Giao nhầm địa chỉ",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Dạ, mà địa chỉ bị sai xa lắm ạ, tận bên quận 2, mà qua đến địa chỉ em gửi thì cũng mất hết 10km lận ạ.",
+                "problem": "Giao nhầm địa chỉ",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Mà lúc nhận hàng, em còn phải trả thêm tiền ship nữa ạ.",
+                "problem": "Phí vận chuyển không hợp lý",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "đợi lâu quá không nổi",
+                "problem": "Thời gian chờ đợi quá lâu",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Ui, ship hàng nhanh quá ạ.",
+                "problem": null,
+                "company_function_involed": "Packaging"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Vậy thì em cảm ơn shop nhiều ạ.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Hy vọng là có.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân bánh rất ngon, tươi, không phải loại nhân công nghiệp.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Vỏ bánh có mùi dầu nhẹ.",
+                "problem": "Vỏ bánh có mùi dầu nhẹ.",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Có thể do mình để tủ lạnh lâu quá nên nhân không chảy ra như trong video.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "cửa hàng làm hơi nhiều",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nướng lại thì vỏ giòn",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân kem nhiều",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "vị matcha rất thơm",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Shop ơi, khi nào shop giao hàng cho mình vậy ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Hiện tại mình không có ở nhà rồi.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Ngày mai shop giao lại giúp mình được không?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, để dịp khác em ghé ạ.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Nếu mà còn dư bánh thì bạn có thể gọi mình được không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Cửa hàng có trống lịch để làm bánh chưa ạ?",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bánh của tôi có chưa, tiệm ơi?",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Mẹ có dặn là trưa lấy mạ về nhà.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "\"À, vậy là sau 20h cũng có thể có mà, đúng không? Mà nhiều không shop? Qua không có.\"",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bên mình có chấp nhận thanh toán bằng thẻ không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Dạ không ạ, em cần bánh sớm hơn, 15 giờ trễ quá ạ.",
+                "problem": "Thời gian giao hàng không phù hợp với yêu cầu của khách hàng",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Dạ, vâng, mình cảm ơn ạ. Sẽ ủng hộ bạn nhiều nha.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, hỏi để mai mốt gì nha shop.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is very delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Ủa bạn, hôm trước mình đã đặt hàng cho đơn ngày 10/4 rồi mà, mình cũng đã đặt cọc luôn rồi á.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Bạn nhớ ghi chú lại nha.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Vậy bây giờ em có bị mất tiền cọc không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, khi nào em mới nhận được bánh ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, khi nào em mới nhận được bánh ạ?",
+                "problem": "Chưa nhận được hàng",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Mình có đặt bánh sáng nay chưa vậy?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Mình có gọi mà không ai nghe máy.",
+                "problem": "Không có ai trả lời điện thoại",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Shop, bạn đã giao hàng giúp mình chưa?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Dạ, bánh vừa khẩu vị em lắm luôn, kem không bị ngọt quá, vừa ăn nha tiệm ơi.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Okay, I'll place the order around that time.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, tiệm cho em huỷ bánh nha ạ.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Em nhận được rồi và bánh ngon lắm ạ.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Tiệm kín đơn đến ngày 3 tháng 4 phải không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Vậy có thể ghi chú đơn của tôi vào cuối tuần đó không? Là ngày 7 tháng 4 ấy ạ.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bếp nhớ ghi chú đơn của tớ vào cuối tuần nhé.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Tớ cảm ơn ạ.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bếp ơi, bánh của tớ hôm nay có rồi đúng không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Tớ hẹn ngày khác lấy được không ạ? Huhuuuu.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Tớ đã đổi sang ngày khác rồi, bếp ơi?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bếp đã được giao cho tôi chưa ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Xin cảm ơn shop đã bán bánh ngon cho chúng tôi.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Quá là ngon luôn á 🫶🏼",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "À, thế thôi. Mình cảm ơn nhé!",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bạn có thể hỗ trợ giúp mình không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Ngày mai, bạn có thể ưu tiên cho mình xin được giao hàng sớm lúc 2 giờ chiều không?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Mình có việc gấp phải về quê nên muốn mang về quê biếu luôn ạ.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Bạn có thể hỗ trợ giúp mình không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "bánh ngon lắm",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mình sẽ ủng hộ tiệm Lan sau nhé",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Sao cọc hoài vậy bạn?",
+                "problem": "Khách hàng cảm thấy không hài lòng với việc bị yêu cầu đặt cọc nhiều lần.",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, sinh nhật người yêu ạ, mà người yêu em không thích phô mai với không thích ngọt lắm.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Tại sao mình nhắn tin cho shop mà không thấy trả lời vậy ạ?",
+                "problem": "Không nhận được phản hồi từ dịch vụ khách hàng",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Ủa, cọc là sao vậy bạn?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Sorry, shop is closed.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "bánh ra hơi trễ",
+                "problem": "Thời gian phục vụ chậm",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "vỏ bánh hơi khô",
+                "problem": "Chất lượng sản phẩm không đạt yêu cầu",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "nhân thì chưa rõ vị matcha lắm",
+                "problem": "Chất lượng sản phẩm không đạt yêu cầu",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "tổng thể vẫn ổn",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Lần sau em sẽ đặt lại, mong sẽ ngon hơn",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Bánh ngọt quá sốp ơi 🥹. Mình ăn ngọt dữ rồi mà sốt bị khé cổ luôn í.",
+                "problem": "Bánh quá ngọt gây cảm giác khó chịu",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Dạ, cả hai đều ngọt quá á sốp, nhất là nhân kem ạ.",
+                "problem": "Nhân kem quá ngọt",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Mình ăn cái nhân trà sữa mà nó cứ ngọt khé cổ, mình cứ tưởng vị vani không á sốp, tại không nghe mùi trà sữa và chỉ có quá ngọt thôi, mùi ngọt như sữa đặc é.",
+                "problem": "Nhân trà sữa quá ngọt, không có mùi trà sữa",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Bánh pistachio cũng vậy ạ, ngọt và bột bánh than tre nhưng lại không được giòn xốp như croissant mà mình cảm tưởng như ăn bánh bông lan than tre á.",
+                "problem": "Bánh pistachio quá ngọt và không giòn xốp",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Sao bạn bảo là không nhận giữ đơn à?",
+                "problem": "Không nhận giữ đơn hàng",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Mình đặt bây giờ chắc không có bánh đâu hả bạn?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Bạn ơi, sao shop không báo cho mình biết là phí ship là 45k vậy?",
+                "problem": "Không thông báo phí ship",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Shop làm ăn tệ quá.",
+                "problem": "Dịch vụ khách hàng kém",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Còn shop này thì đặt bất chấp, vô trách nhiệm luôn.",
+                "problem": "Thiếu trách nhiệm trong việc thông báo phí ship",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Phí ship cao như cái bánh mà cũng đặt được.",
+                "problem": "Phí ship cao",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tiền ship không bao nhiêu nhưng làm vậy thì khách mất cảm tình đó bạn.",
+                "problem": "Mất cảm tình với dịch vụ",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Trên app thì không để bánh, bắt khách phải đặt qua page.",
+                "problem": "Không rõ ràng trong quy trình đặt hàng",
+                "company_function_involed": "Digital Marketing"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Đặt qua thì book ship tới bến, vô trách nhiệm, không thèm báo tiền ship luôn.",
+                "problem": "Thiếu trách nhiệm trong việc thông báo phí ship",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Hai bánh 85k mà shipper lấy mình 140k, là 55k tiền ship hả?",
+                "problem": "Phí ship không rõ ràng",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Ủa, sao trên menu hai bánh 85k mà ship bảo 95k vậy shop?",
+                "problem": "Giá không nhất quán",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Dạ, nội dung tin bị unavailable rồi shop ơi.",
+                "problem": "Nội dung tin không khả dụng",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Shop ơi, hôm nay em có việc, có thể dời sang ngày mai được không ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Shop ơi, hôm nay em bận không đến lấy được ạ.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Vui lòng miễn phí vận chuyển cho tôi.",
+                "problem": "Yêu cầu miễn phí vận chuyển",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, em không chốt nữa nha, shop ơi.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Hôm nay mình không có kem sữa ạ. 😞",
+                "problem": "Thiếu sản phẩm",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Huhu, giá cao vậy hả shop? 🥹",
+                "problem": "Giá sản phẩm cao",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ vâng ạ, để mình suy nghĩ rồi có gì mình sẽ nhắn cho shop sau ạ.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mình cảm ơn nhiều ạ.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, em cảm ơn.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Em tưởng không bán được làm em lo quá.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Thật ra là do mình cần gấp chứ không đợi được ý, shop ơi.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Ngày gần nhất em có thể đặt bánh là ngày nào, shop ha?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Tại em thấy shop đăng ghi là đã nhận đủ đơn mấy ngày rồi 🥺",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "đau lòng",
+                "problem": "Emotional distress",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Dạ, vậy thôi em không đặt nữa ạ. 🤦🏻‍♀️",
+                "problem": "Customer decided not to place an order",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "The shipping fee is a bit high",
+                "problem": "High shipping fee",
+                "company_function_involed": "Packaging"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "so I might visit the shop or order online",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Thank you, shop",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Tiệm còn mở cửa không ạ?",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Shipping is expensive, right? @@",
+                "problem": "High shipping cost",
+                "company_function_involed": "Packaging"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Chắc hôm khác mình sẽ đặt nhé.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Xin lỗi shop, em không cố ý hủy đơn đâu, tại em cãi nhau nên quên mất.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Khoảng ngày 10 em vào Sài Gòn, em sẽ nhắn lại địa chỉ để shop gửi hàng giúp em.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Em sẽ chuyển khoản cọc trước cho shop nhé.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Xin lỗi shop nhiều.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Cái bánh roll croissant nhân matcha có vị lạ lắm ạ. Nó chua chua như kiểu bị lên men á.",
+                "problem": "Bánh có vị lạ, chua như bị lên men",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Hay là kem vị nó vậy ạ?",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon lắm ạ!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Dạ, sao hôm qua em đặt được mà hôm nay vào không được vậy ạ?",
+                "problem": "Khách hàng không thể truy cập dịch vụ",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Có hôm em thấy, có hôm không thấy.",
+                "problem": "Dịch vụ không ổn định",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Trước đó, em cũng đã ăn bánh của shop vài lần rồi và thấy rất ngon.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tuy nhiên, hôm nay khi em ăn bánh thì lại thấy bị chua, có mùi như bánh bị hư vậy. Em phải bỏ bánh vì không thể ăn được.",
+                "problem": "Bánh bị chua, có mùi như bị hư",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Mình chỉ góp ý để shop kiểm tra lại bánh, tránh bán cho người khác.",
+                "problem": "Sản phẩm không đạt chất lượng",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Nếu shop hoàn tiền thì hoàn lại cho mình 2/3 giá trị hộp bánh được không, vì có một cái ăn vẫn ổn.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "cái custard 3 vị có bánh socola và matcha thì bị chua chua",
+                "problem": "Bánh socola và matcha trong custard bị chua",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "cái matcha thì bị khô cứng",
+                "problem": "Bánh matcha bị khô cứng",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Cái socola có mùi chua lắm",
+                "problem": "Socola có mùi chua",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "shop kiểm tra lại bánh giúp mình nhé",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Nó hơi xấu một chút nhưng cũng không sao.",
+                "problem": "Sản phẩm không đẹp mắt",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Sau đó, bạn làm cho nó dính chặt hơn nhé.",
+                "problem": "Sản phẩm không chắc chắn",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Nó bị lệch lung tung, may là không hỏng hình, nhưng nhìn không đẹp mắt lắm.",
+                "problem": "Sản phẩm bị lệch",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Cái đế không dính vào cái bánh.",
+                "problem": "Đế bánh không dính",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Em thấy bên mấy ứng dụng không có nhiều loại bánh.",
+                "problem": "Không có nhiều loại bánh trên ứng dụng",
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "không biết shipper bên bạn đã giao hàng chưa ạ?",
+                "problem": "Không rõ tình trạng giao hàng",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "giờ vẫn chưa có ai nhận ship ạ, hay ship đang đi rồi vậy bạn?",
+                "problem": "Không rõ tình trạng giao hàng",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "mình cũng không thấy shipper gọi gì cả",
+                "problem": "Shipper không liên lạc với khách hàng",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon lắm, shop ơi!",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Em không kịp chụp luôn, đã hết rồi.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh thơm mà không bị ngọt, mê lắm, shop ơi!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Dạ, ngon lắm ạ.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mẹ em khen nhiều lắm, hihi.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Dạ, chắc chắn rồi, hihi.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mẹ em còn nói lần sau mua thì bảo mẹ để mẹ cúng ông địa nữa.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất ngon, thơm mùi cà phê và mùi rượu.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Ăn không bị ngán.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon lắm luôn á shop ơi!",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Người lớn ăn ai cũng khen ngon hết á 🥰",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Ăn không có bị ngán 🥰",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bánh kem của mình đã được giao chưa?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Vào ngày 28/2, em đã ghé qua cửa hàng để mua một chiếc bánh croissant cuộn và thấy rằng nhân kem rất nhiều, đúng như trong video clip.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Đến ngày 30/4, em quay lại mua thêm nhưng lần này bánh không ngon như lần trước, kem rất ít.",
+                "problem": "Kem rất ít, không ngon như lần trước",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Hôm nay, em đến mua thêm hai chiếc nữa nhưng hơi thất vọng vì kem vẫn ít như ngày 30/4, không ngon như lần đầu em ăn.",
+                "problem": "Kem vẫn ít, không ngon như lần đầu",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Em nghĩ có thể do dịp lễ đông khách nên bánh mới như vậy.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Em xin góp ý và mong cửa hàng cải thiện chất lượng bánh nhé.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Mình định đăng hình bánh và thiệp mà shop chụp như vậy là chịu rồi :))",
+                "problem": "Hình ảnh sản phẩm không đạt yêu cầu",
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, được ạ.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Nhưng 1h30 thì em không đến lấy được, nên shop ship cho em nhé.",
+                "problem": "Khách hàng không thể đến lấy hàng vào thời gian đã định",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon lắm tiệm ơi! Mình cảm ơn nhé!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Ui, hôm nay mình không có nhiều thời gian, để hôm nào xuống thành phố mình mua tiếp nhé.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Đẹp quá trời luôn!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Huhu, buồn quá à!",
+                "problem": "Customer feels sad",
+                "company_function_involed": "Digital Marketing"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Tại em mới coi TikTok, thích bánh của shop lắm luôn.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Dạ, hẹn tiệm lần sau nhé, bạn em đã mua bánh rồi ạ :((",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Giao hàng trong nội thành mà giá lại đắt như vậy ạ?",
+                "problem": "Giá giao hàng đắt",
+                "company_function_involed": "Packaging"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "bánh ngon lắm ạ",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Híc, mai mốt shop sẽ kê thêm cái vách ngăn cho đẹp 🥲",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Ban đầu báo phí ship là 30k, sao bây giờ lại là 37k ạ?",
+                "problem": "Thay đổi phí ship không thông báo trước",
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Nhà mình cũng xa, mắc công qua không có.",
+                "problem": "Khách hàng gặp khó khăn trong việc tiếp cận sản phẩm do khoảng cách địa lý.",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Ủa, mình có đặt trước, hôm nay tới lấy mà ta?",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Mình đã gửi địa chỉ qua Zalo rồi ạ. Nhờ quán kiểm tra giúp mình.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Em đang cần gấp ạ.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Bên hotline vừa xác nhận với mình đơn này nhé.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Dịch vụ kiểm tra tin nhắn và lên đơn khá nhanh và ổn.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh bên mình không quá ngọt, phù hợp với khẩu vị của em, vị chocolate là ngon nhất, vỏ cũng khá thơm mùi bơ, để lạnh ăn vẫn giòn.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "bên mình đã giao nhầm đơn hàng của em. Em đã đặt 1 bánh chocolate và 1 bánh matcha, nhưng bên mình lại giao nhầm matcha thành trà sữa.",
+                "problem": "Giao nhầm đơn hàng",
+                "company_function_involed": "Packaging"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "em hy vọng bên mình có thể kiểm tra kỹ và nhắn cho em trước khi giao bánh.",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Shop ơi, bánh của mình tới đâu rồi ạ?",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Delicious and mouthwatering.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is visually appealing",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the shop owner is friendly",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "provides enthusiastic advice",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The pastries are delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the space is suitable for chatting and working",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "The shop has only three tables for customers to sit at",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the drinks are affordable and tasty",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I bought a box of custard to eat there and borrowed two plates from the shop to display and take pictures, and they kindly allowed it",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Super nice!",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious, beautiful, and reasonably priced.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "phục vụ rất nhiệt tình nhé",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cakes come in a variety of shapes and are very fragrant.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "I bought two Halloween cakes, and they will be available until October 31st.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Tôi tưởng Google đánh giá nhiều sao nên mới ghé thử, ai ngờ họ bán bánh cũ và có mùi dầu, thật thất vọng.",
+                "problem": "Bánh cũ và có mùi dầu",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Toàn là đánh giá ảo thôi mọi người nên tránh xa.",
+                "problem": "Đánh giá ảo",
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ở đây rất ngon, mọi người ạ.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất ngon, ăn không bị ngán.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Khi nào đi qua, tôi cũng mua.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cakes here are very delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the staff is friendly and enthusiastic",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the matcha filling is both tasty and unique",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "I ordered bread on Grab, and it was very delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "When it was delivered, the bread was still hot and crispy.",
+                "problem": null,
+                "company_function_involed": "Packaging"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Everyone should try the garlic butter bread; it's very tasty and fragrant.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The moon cakes are exceptionally good.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is very delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the price is reasonable",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The atmosphere is cheerful and cozy",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "I ordered a cake here and it was very delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "prices that are reasonable compared to the average bakery",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The staff were very friendly and enthusiastic when communicating via messages",
+                "problem": null,
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the decor to be very beautiful, creating a cozy atmosphere",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I will definitely support this bakery more in the future",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The mooncakes from the shop are reasonably priced and beautifully baked.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The packaging is also quite satisfactory, deserving a 10/10.",
+                "problem": null,
+                "company_function_involed": "Packaging"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "These mooncakes make great gifts as they come with many new and exciting fillings.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "Mình đến Aroma khá muộn nên các loại bánh còn lại không quá đa dạng",
+                "problem": "Không đa dạng sản phẩm",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "bánh lại ngon bất ngờ",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mình đã mua croissant thường và croissant bơ tỏi",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "sốt trứng muối ăn kèm với bánh",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "sốt thơm ngậy, vừa mặn vừa ngọt, rất hợp khẩu vị",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh mình mua được nhân viên làm nóng tại chỗ",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "bánh vẫn còn ấm và thơm, không bị khô",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "menu đồ uống và thấy rất phong phú với giá rẻ hơn nhiều so với các quán khác",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The crust is soft, fragrant, not too sweet, and not overwhelming.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The filling is diverse, especially the spicy Taiwan beef flavor, which is very tasty.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The price is reasonable; I bought a box of 6 small cakes, and the quality is excellent.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Additionally, the shop owner is friendly and lovely.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "There is maple syrup.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Tôi đã mua về cho con gái ăn, nhưng sau đó cháu bị tiêu chảy.",
+                "problem": "Sản phẩm gây tiêu chảy",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Giá hơi cao",
+                "problem": "Giá cả cao",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "ngon nha",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Bánh có phải là hàng cũ không mà lại có mùi hôi dầu?",
+                "problem": "Bánh có mùi hôi dầu, có thể là hàng cũ",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Nhân viên chèo kéo khách hàng, mình thích tự chọn bánh mà cứ bị tư vấn mua bánh này bánh nọ như thể ép mua.",
+                "problem": "Nhân viên chèo kéo khách hàng, ép mua hàng",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Người bán hàng đang cố gắng chèo kéo khách hàng mua thêm bánh, có lẽ vì hàng đang ế.",
+                "problem": "Người bán hàng chèo kéo khách hàng",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Món ăn ở đây rất ngon mọi người ạ",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "mình rất bất ngờ với món bánh mì bơ tỏi",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Mình đến quán vào lúc 5 giờ chiều nên quán không có ai",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Giá cả hợp lý",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "bánh không bị quá ngọt",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhiệt tình và uy tín",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh siêu ngon luôn ạ mà siêu rẻ nữa.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên dễ thương",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Quán xinh, bánh ngon, nhân viên nhiệt tình và dễ thương.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mình đặt cho bạn thôi mà bạn khen quá trời khen.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Hihiii, mọi người nên ghé nhé!",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The food is wonderful.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "The original text seems to be a typo or an informal expression.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "It could be an exaggerated form of the word \"gonna,\" which is a colloquial contraction of \"going to.\"",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "I highly recommend the chocolate croissant, everyone!",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The pastry is super delicious, and the cream isn't too sweet.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I've visited twice, and both times the staff were very friendly.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The place deserves a perfect score, no doubt about it!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Thấy mọi người review nhiều trên TikTok, trông bánh ngon quá nên mình ghé mua thử.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Không gian quán được trang trí đơn giản, dễ thương, yên tĩnh, thích hợp để hẹn hò trò chuyện hoặc làm việc.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh và nước thì ngon không chê vào đâu được mà giá cả lại phải chăng, chỉ từ 30 nghìn đồng.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Lần thứ hai, mình đặt bánh Croissant matcha với socola về ăn thử, ghiền thật sự.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Anh chị chủ quán dễ thương, nhẹ nhàng và nhiệt tình.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên tư vấn nhiệt tình và vui vẻ",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon nhé!",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Kem không quá ngọt nè.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Khi tôi bước vào tiệm, có mùi bánh rất thơm.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Các bạn nhân viên rất nhiệt tình và dễ thương, họ dặn dò tôi rất kỹ khi mua bánh mang về.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Mọi người ở quán rất nhiệt tình và dễ thương",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "bánh ở đây cũng rất chất lượng",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "It's extremely delicious!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên và quản lý rất dễ thương.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mình không đặt bánh trước nhưng các bạn vẫn hỗ trợ để mình có bánh ăn.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon và kem rất đầy.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "The cake is a bit too sweet for my taste.",
+                "problem": "The cake is too sweet.",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Khi bước vào quán, tôi cảm thấy không hài lòng khi các bạn nhân viên không chào hỏi mà ngồi quay lưng lại với cửa.",
+                "problem": "Nhân viên không chào hỏi khách hàng khi vào quán.",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tôi đã phải đi vào tận bên trong mới được chào, điều này thật thiếu tôn trọng.",
+                "problem": "Thiếu tôn trọng khách hàng do không chào hỏi kịp thời.",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Cách giải quyết của tiệm rất thiếu chuyên nghiệp.",
+                "problem": "Thiếu chuyên nghiệp trong cách giải quyết vấn đề.",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Bạn thu ngân nói với tôi rằng do máy hư nên không có bánh tôi đã đặt và yêu cầu tôi chọn bánh khác.",
+                "problem": "Không có bánh đã đặt trước do máy hư, không có biện pháp giải quyết.",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tôi thật sự thất vọng. Mong lần sau tiệm hãy báo trước với những đơn đã đặt trước.",
+                "problem": "Không thông báo trước về vấn đề với đơn hàng đã đặt trước.",
+                "company_function_involed": "Online Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tôi sẽ không bao giờ quay lại.",
+                "problem": "Khách hàng không hài lòng và không muốn quay lại.",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Mấy anh nhân viên dễ thương, thân thiện lắm ạ.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh xinh, ngon lắm mọi người ơi!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Chất lượng bánh tương đối ngon so với những tiệm khác.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Sau đó, chúng mình quyết định sẽ không quay lại nữa vì lý do sức khỏe.",
+                "problem": "Vấn đề sức khỏe liên quan đến vệ sinh an toàn thực phẩm.",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Khi ghé tiệm, mình thấy một chú cún đang nằm trên bàn! Hình như lúc đó tiệm có 2-3 chú cún.",
+                "problem": "Vấn đề vệ sinh an toàn thực phẩm do có vật nuôi trong tiệm.",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tiệm có vẻ quá dễ dãi hoặc không nhận thức được vấn đề an toàn vệ sinh khi để khách tự do mang vật nuôi vào tiệm bánh như vậy.",
+                "problem": "Thiếu nhận thức về an toàn vệ sinh thực phẩm khi cho phép vật nuôi vào tiệm.",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Mình lo lắng về việc lông của các chú cún có thể vô tình còn lưu lại trên ghế.",
+                "problem": "Lo ngại về vệ sinh do lông vật nuôi có thể còn lại trên ghế.",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Rất dễ thương ạ.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon đến mức không thể cưỡng lại",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "ăn xong mệt đến mức không thể nhấc tay lên",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mua một lần 10 cái ăn mới thỏa mãn",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "các bạn ở tiệm vẫn niềm nở bán cho mình 4 cái bánh dư ra, nên mình rất vui",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon 10 điểm nha shop!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Good choice for basic needs.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Khi bước vào cửa, bạn sẽ cảm nhận được mùi bơ thơm thoang thoảng.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh thơm, giòn, và sốt trứng muối bám đều.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Tôi đến tiệm mua trực tiếp nên nhân viên sẽ hâm nóng bánh trước khi đưa cho khách.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Roll croissant ở đây rất được ưa chuộng nên cần phải đặt trước.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Riêng loại pistachio hôm tôi đến thì có dư nên tôi mua được ngay.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Bánh có nhiều nhân kem, béo ngậy nhưng tôi không nghĩ pistachio hợp khẩu vị của mình.",
+                "problem": "Không hợp khẩu vị",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Có chỗ ngồi lại (khoảng 3 ghế sofa) và có phục vụ cả nước uống, nhưng tôi không nghĩ quán phù hợp để ngồi lại lâu.",
+                "problem": "Không phù hợp để ngồi lại lâu",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Cô chủ và các bạn nhân viên đều rất thân thiện.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Có thể đậu xe trước cửa tiệm và tự khóa xe vì không có bảo vệ.",
+                "problem": "Không có bảo vệ",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Tóm lại, đây là một trải nghiệm khá ổn với tôi.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Quán có nhiều loại bánh đa dạng.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "THÁI ĐỘ NHÂN VIÊN KHÔNG CẦN KHÁCH",
+                "problem": "Thái độ nhân viên không tốt",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tiệm có ít nhân viên nên mình phải đứng đợi khá lâu.",
+                "problem": "Thiếu nhân viên phục vụ",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Anh nhân viên đáp: \"Vậy thì đừng nhìn xuống tủ đó.\"",
+                "problem": "Thái độ nhân viên không tôn trọng khách hàng",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Tiệm không quá lớn nhưng thái độ của nhân viên rất KHÔNG TÔN TRỌNG KHÁCH HÀNG.",
+                "problem": "Thái độ nhân viên không tôn trọng khách hàng",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Mình sẽ không bao giờ quay lại!!",
+                "problem": "Mất khách hàng do dịch vụ kém",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "肉鬆麵包非常美味",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "店員也非常親切",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "店內還有很好的內用位子",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "值得推薦",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ở đây rất ngon.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Quán nhỏ, không gian bình thường",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "bánh được làm rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh croissant giá 30k, rẻ nhưng chất lượng ngon, thơm và mềm, rất đáng thử.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh nhân kem dâu có vị ngọt vừa phải.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên dễ thương và thân thiện.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên rất nhiệt tình",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "bánh rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "All the trendy cakes here are delicious, everyone 🤩.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "As soon as I arrived, a security guard opened the door for me ---> 5*.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Stepping into the shop, I felt a pleasant atmosphere, with Western-style decor that was very interesting ----> 5*.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "There is a manager named Giang who is super cute, enthusiastically and professionally introducing the cakes ----> 5*.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I bought a lot of cakes, but they were so delicious that I ate them before I could take pictures.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I will definitely support this shop for a long time 🥰.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The café is beautiful",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the pastries are delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "it's definitely worth staying for a while, hehe",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Tuyệt vời",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh của Aroma làm rất ngon và đẹp mắt ạ.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Dịch vụ thật tệ",
+                "problem": "Dịch vụ kém",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "cách xử lý của cửa hàng thực sự kém",
+                "problem": "Xử lý tình huống kém",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "bị giao thiếu hàng",
+                "problem": "Giao hàng thiếu",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Mình rất hài lòng với các nhân viên",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "quản lý thì không thể chấp nhận được",
+                "problem": "Quản lý kém",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is very delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Thật là tuyệt vời.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon quá trời",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên còn dễ thương nữa",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Tốt đẹp và vui vẻ.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "bánh ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "giá cả theo mình thấy là xứng đáng với chất lượng bánh",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên cũng rất nhiệt tình",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên thân thiện, có tài, nhanh nhẹn, xứng đáng 100 điểm.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Tôi đề nghị tăng lương cho nhân viên (Khang).",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh cũng ngon và giá thành hợp lý.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh có chất lượng tốt",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên vui vẻ và thân thiện",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên này rất nhanh nhẹn và có tài, cần được xem xét thăng chức.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Ngon quá, bánh ngon.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên dễ thương, thân thiện.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh siêu ngon 😀🙂⭐️😦😂🤣😁🌧️",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon, mềm",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "không gian thoáng",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên rất nhiệt tình và dễ thương",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Tôi sẽ quay lại vào một ngày không xa",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Mong quán tăng lương cho nhân viên tên Khang vì sự nhiệt tình của bạn ấy",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên thân thiện",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "cần tăng lương gấp (Khang và Khan)",
+                "problem": "nhân viên cần được tăng lương",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên rất tốt, nhiệt tình lắm, đặc biệt là bạn nam tên Khang thì phải.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh cũng trông rất xinh.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên thân thiện (Khang)",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the staff, especially Khang, is very friendly",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Tiệm bánh rất xinh",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "anh nhân viên tên Khang rất dễ thương và nhiệt tình",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Tôi thấy tiệm bánh bán với giá hợp lý.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ở đây ăn ngon và dễ ăn.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên lại còn nhiệt tình, dễ thương và đẹp trai",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cakes are delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the staff is enthusiastic",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the staff is enthusiastic",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is super sticky and also pet-friendly <3",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The phrase '10 điểm' translates to '10 points' in English. It is often used in Vietnamese to indicate a perfect score or to express high praise for something.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The custard cake is very delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The staff and the owner are lovely.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I recommend it!",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Trà sữa khá hợp khẩu vị với mình",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên nhiệt tình",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is very delicious; I have bought it many times.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "Một lần, tôi bị ngã xe trước cửa tiệm.",
+                "problem": "Khách hàng gặp tai nạn trước cửa tiệm",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên trong tiệm đã nhanh chóng chạy ra đỡ tôi dậy.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên ở đây rất nhiệt tình và lịch sự, họ mang bánh và nước ra cho tôi.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Tôi cảm nhận được nước ở đây rất ngon, đậm đà vị trà, bánh thì thơm và đặc biệt.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Không gian của tiệm thoải mái, mát mẻ, không bị ồn ào, rất thích hợp để làm việc và học tập.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên dễ thương",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ở đây rất ngon, đẹp, không quá ngọt và thơm.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Các loại bánh mặn cũng rất ngon.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh to và lớn nên ăn rất vừa bụng.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất xinh",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên rất thân thiện",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Custard rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "mousse matcha cũng ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "The phrase '10 điểm' translates to '10 points' in English.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "It is often used in Vietnamese to indicate a perfect score or to express high praise for something.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên này xứng đáng 10 điểm, hãy tăng lương cho Khang ngay! :))))",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious and of high quality.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "The word 'Phê' is a Vietnamese term that can mean 'intoxicated' or 'ecstatic', often used to describe a state of euphoria or excitement.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Sản phẩm tốt",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên được 10 điểm",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Yêu cầu tăng lương và thưởng Tết cho nhân viên",
+                "problem": "Yêu cầu tăng lương và thưởng Tết cho nhân viên",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên được đánh giá 10 điểm",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "yêu cầu tăng lương ngay lập tức ạ",
+                "problem": "Yêu cầu tăng lương",
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên này rất xuất sắc, đề nghị tăng lương cho họ. 😃",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên rất dễ thương, 10 điểm.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh cũng rất ngon nhé!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the staff is friendly",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Nhân viên 5 sao yêu cầu tăng lương, tăng lương mạnh nha (nhân viên Khang).",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon 10 điểm.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is very delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the staff member Khang is also very nice and charming",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I request the shop owner to give Khang a raise",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is very delicious, everyone.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The staff is enthusiastic and lovely.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "You should visit.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên dễ thương",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Đồ ăn ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nước uống cũng ổn",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Dịch vụ ổn",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "bánh kem Tết trang trí rất đẹp",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Tiệm phục vụ rất dễ thương.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bạn nên thử nhé!",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake and pastry are delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious. It's a must-try.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cakes are delicious and reasonably priced",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the staff provides enthusiastic consultation",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Tuyệt vời",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh này rất ngon.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "10 điểm",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Ngon quá mọi người ơi.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất xịn",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "nhân viên dễ thương",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "10 điểm",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "neutral",
+                "original_text": "The word 'chill' can refer to a feeling of coldness or a relaxed, easygoing attitude.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "It is often used informally to describe a calm and laid-back atmosphere or demeanor.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cakes are delicious and very reasonably priced, everyone. You should try them! 😘😘🥰🥰❤️❤️",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Enjoy divine and delicious food, and drink honestly.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Ngon lắm luôn.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "I absolutely love their custards; they are the best I've had so far.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I ordered a tea break set from them for my event, and the attendees gave me great feedback.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "If you're looking for hygiene, professionalism, nice packaging, and, most importantly, delicious cakes, this is your go-to choice.",
+                "problem": null,
+                "company_function_involed": "Packaging"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Tôi đã nhiều lần dùng bữa và trở thành một trong những khách hàng thân thiết của quán.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Tôi cảm thấy vô cùng hài lòng về những khuyến mãi và chất lượng dịch vụ mà quán mang tới cho khách hàng.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Đây sẽ là địa điểm phù hợp cho những bạn thích ăn bánh nhưng ít ngọt như tôi.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "I recommend everyone try almond pastries and croissants dipped in Aroma milk tea.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "negative",
+                "original_text": "The shop is a bit small and located next to a vehicle repair shop",
+                "problem": "Shop size and location",
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the pastries are delicious and reasonably priced",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The aroma cake is both delicious and of high quality.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The staff are also friendly and dedicated.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Quay lại lần thứ hai vẫn không có gì để chê.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Đáng đồng tiền bát gạo.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Trà sữa được khuyến mãi mua 1 tặng 1.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh tươi ngon và được làm với tâm huyết.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Ngày 5/11, mình thấy trên Facebook có quảng cáo nên ra tiệm mua một hộp bánh, ăn rất ngon, nhân đầy ụ.",
+                "problem": null,
+                "company_function_involed": "Digital Marketing"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Thấy ngon quá nên tuần sau, ngày 10/11, mình tới mua thì bị thất vọng. Bánh khô hơn, nhân ít đi hẳn.",
+                "problem": "Chất lượng bánh không đồng đều, bánh khô hơn và nhân ít đi.",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Không biết tại sao lại bị đổi công thức hay do bánh quá hot nên các bạn nhân viên làm không xuể khiến chất lượng không đồng đều.",
+                "problem": "Chất lượng bánh không đồng đều, có thể do công thức bị đổi hoặc sản xuất không kịp.",
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "negative",
+                "original_text": "Buồn vì trải nghiệm lần đầu rất tốt mà lần sau không ổn lắm.",
+                "problem": "Trải nghiệm không nhất quán giữa các lần mua.",
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake has a delicious chocolate flavor with a distinct matcha taste",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "priced the same as in the supermarket",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cake is delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the service is excellent",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the owner is enthusiastic",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the prices are suitable for everyone",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon với giá cả hợp lý, phù hợp cho các bạn sinh viên.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh chuối rất ngon và có độ ngọt vừa phải.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh rất ngon, đáng đồng tiền lắm.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "neutral",
+                "original_text": "Nước trà Yuzu và trà Nhiệt đới nhìn thì giống nhau nhưng vị lại khác hẳn.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Hương vị độc lạ thật.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Bánh ngon, đặc biệt là bánh phô mai rất ngon",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "latte cũng rất ổn",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Không gian quán rất thoải mái",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "Cà phê cacao kem muối ngon nè",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "bánh ok lắm",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Phải thử!",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The cakes were incredibly mouth-watering and visually appealing.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "I absolutely loved them.",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "The baked goods here are delicious",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "the workers are nice and kind",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The interior is clean and modern",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "making it a perfect place to study or enjoy a nice bite to eat",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "It's a lovely small local bakery to visit while you're in the area",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "bánh ngon hơn tôi tưởng",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "Đây là một tiệm bánh mà tôi sẽ ghi chú lại trong sổ tay và sẽ thường xuyên ghé thăm",
+                "problem": null,
+                "company_function_involed": "Product"
+            }
+        ]
+    },
+    {
+        "points": [
+            {
+                "sentiment": "positive",
+                "original_text": "We ordered a variety of cakes for our office, and everything was delicious.",
+                "problem": null,
+                "company_function_involed": "Product"
+            },
+            {
+                "sentiment": "positive",
+                "original_text": "The service and taste were great.",
+                "problem": null,
+                "company_function_involed": "Offline Customer Services"
+            }
+        ]
+    }
+]

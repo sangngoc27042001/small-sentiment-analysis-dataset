@@ -1,0 +1,1267 @@
+[
+    {
+        "org_comment": "bánh e mua 2 vị tặng b vị choco b khen ngon lắm\ne để nhà ăn matcha nó bị chua chua í ạ\ne ăh bánh bên mình hoài ngon lắm mà nay bánh này bị chua huhu\ndạ hong nó kiểu chua bị kì kì í tại e có ăn qu bánh này rùi\r\ne đưa b em ăn thử b cũng nói z á\r\nchoco có chua nma chua kiểu béo của kem chesee còn matcha thì chua khác á shop huhu",
+        "reconstructed_comment": "Em mua hai loại bánh, tặng bạn vị chocolate, bạn khen ngon lắm. Em để ở nhà ăn vị matcha thì thấy bị chua chua. Em ăn bánh bên mình hoài thấy ngon lắm, mà nay bánh này bị chua, huhu. Dạ, không, nó kiểu chua bị kỳ kỳ, vì em đã ăn qua bánh này rồi. Em đưa bạn em ăn thử, bạn cũng nói vậy á. Chocolate có chua nhưng là chua kiểu béo của kem cheese, còn matcha thì chua khác á shop, huhu.",
+        "eng_comment": "I bought two types of cakes, gave my friend the chocolate flavor, and they said it was delicious. I left the matcha flavor at home to eat and found it to be sour. I've eaten cakes from your place many times and found them delicious, but this time this cake was sour, huhu. No, it's a weird kind of sour, because I've had this cake before. I let my friend try it, and they said the same thing. The chocolate is sour but in a creamy cheese way, while the matcha is a different kind of sour, shop, huhu."
+    },
+    {
+        "org_comment": "bánh ngon á, đc mí c chỗ t khen nè\r\nnhưng mà\r\nnước trà bên m đưa trà cốt hẻ\r\ntửn ún cà phê :)))\r\nđắng nghét lun á",
+        "reconstructed_comment": "Bánh ngon á, được mấy chị chỗ tôi khen nè. Nhưng mà nước trà bên mình đưa trà cốt hả? Tôi uống cà phê :))) Đắng nghét luôn á.",
+        "eng_comment": "The cake is delicious, my colleagues praised it. But did you serve tea concentrate? I drink coffee. It's so bitter."
+    },
+    {
+        "org_comment": "cho e hỏi là tới quán mua thì có bánh ko ạ\r\nem sợ qua cái hong còn mấy loại bánh á\r\nbánh croissant á",
+        "reconstructed_comment": "Cho em hỏi là nếu tới quán mua thì có bánh không ạ? Em sợ qua đó không còn mấy loại bánh, đặc biệt là bánh croissant.",
+        "eng_comment": "May I ask if there are pastries available if I come to the shop to buy? I'm afraid there might not be many types of pastries left, especially croissants."
+    },
+    {
+        "org_comment": "Bánh đợt này giòn hơn đợt trước mà k còn thơm\r\nMùi trà nữa\r\nCảm ơn bạn đã quan tâm đến Aroma Bakery, chúng tôi sẽ trả lời tin nhắn của bạn trong vài phút.\r\nBánh vị kem béo quá\r\nĐợt trc mùi trà bá tước rất ngon luôn\r\n",
+        "reconstructed_comment": "Bánh đợt này giòn hơn đợt trước nhưng không còn thơm mùi trà nữa. Cảm ơn bạn đã quan tâm đến Aroma Bakery, chúng tôi sẽ trả lời tin nhắn của bạn trong vài phút. Bánh vị kem lần này béo quá. Đợt trước mùi trà bá tước rất ngon.",
+        "eng_comment": "The cookies this time are crunchier than the last batch but no longer have the tea aroma. Thank you for your interest in Aroma Bakery, we will respond to your message in a few minutes. The cream-flavored cookies this time are too rich. The Earl Grey flavor last time was very good."
+    },
+    {
+        "org_comment": "Hình như nhân kem k đều ấy\r\n2 cái vị trà thì một cái có xíu vị một cái k có vị nào",
+        "reconstructed_comment": "Hình như nhân kem không đều ấy. Hai cái vị trà thì một cái có chút vị, một cái không có vị nào.",
+        "eng_comment": "It seems like the cream filling is uneven. Of the two tea-flavored ones, one has a bit of flavor, while the other has no flavor at all."
+    },
+    {
+        "org_comment": "b oi??\r\nbạn cho xin địa chỉ để bên mình tra phí ship nha\r\nphí ship 63K bạn nha\r\nb book grab hay sao ạ@@\r\nvậy thôi,b hoàn cọc giúp mình \r\nmình tự đặt cũng 60k r bạn ơi\r\nhoàn cọc giúp mình nhé\r\nbên b hoàn cho mình chưa á",
+        "reconstructed_comment": "Bạn ơi, bạn có thể cho mình xin địa chỉ để bên mình tra phí ship không? Phí ship là 63K bạn nhé. Bạn có muốn đặt Grab không? Nếu vậy thì thôi, bạn hoàn cọc giúp mình nhé. Mình tự đặt cũng chỉ 60K thôi bạn ơi. Bạn đã hoàn cọc cho mình chưa?",
+        "eng_comment": "Hey, can you give me the address so we can check the shipping fee? The shipping fee is 63K. Do you want to book a Grab? If so, then never mind, please help me refund the deposit. I can book it myself for only 60K. Have you refunded the deposit for me yet?"
+    },
+    {
+        "org_comment": "Bạn ơii\nCho m đặt bánh hôm nay được không ạ?\nDạ hic mình cam on",
+        "reconstructed_comment": "Bạn ơi,\nCho mình đặt bánh hôm nay được không ạ?\nDạ, mình cảm ơn.",
+        "eng_comment": "Hi there,\nCan I order a cake today?\nThank you."
+    },
+    {
+        "org_comment": "sao em thấy trên grab không có vậy ạ\r",
+        "reconstructed_comment": "Sao em thấy trên Grab không có vậy ạ?",
+        "eng_comment": "Why don't I see it on Grab?"
+    },
+    {
+        "org_comment": "hnay còn slot bánh ko ah\r\n",
+        "reconstructed_comment": "Hiện nay còn slot bánh không ạ?",
+        "eng_comment": "Is there still a slot for cake available?"
+    },
+    {
+        "org_comment": "Huhu em có đặt trước bánh rùi, mà gọi báo em hết nên em cũng hơi buồn nha shop ơi :(( em đặt trước cả tuần luôn\nEm hơi buồn nha shop ơi :(( em đặt trc, xác nhận đơn gõ gàng huhu\nEm hơi buồn hoii\r\n:((( dạ hoi mà bánh shop ngonn lắm\r\nNên em sẽ ủng hộ ạaaa\r\nDạ bánh ngonn ạaa, hokk saoo, nên em vẫn sẽ ủng hộ ạaaaa 🥰🥰\r\nThả 1000 trái timm\r\nMình còn nhận bánh vào ngày nào ạ\r\nVới lại e đặt roll crossant soco mà giao dâu cho em…\r\n:((((\r\nTại e kh ăn dâu đc…\r\nHuhu :(((\r\n",
+        "reconstructed_comment": "Huhu, em có đặt trước bánh rồi, mà gọi báo em hết nên em cũng hơi buồn nha shop ơi :(( Em đặt trước cả tuần luôn. Em hơi buồn nha shop ơi :(( Em đặt trước, xác nhận đơn rõ ràng huhu. Em hơi buồn thôi :((( Dạ thôi mà bánh shop ngon lắm. Nên em sẽ ủng hộ ạaaa. Dạ bánh ngon ạaa, không sao, nên em vẫn sẽ ủng hộ ạaaaa 🥰🥰 Thả 1000 trái tim. Mình còn nhận bánh vào ngày nào ạ? Với lại em đặt roll croissant socola mà giao dâu cho em… :(((( Tại em không ăn dâu được… Huhu :(((",
+        "eng_comment": "Oh no, I pre-ordered the cake, but I was informed that it's out of stock, so I'm a bit sad, shop :(( I ordered a week in advance. I'm a bit sad, shop :(( I pre-ordered and confirmed the order clearly, oh no. I'm just a bit sad :((( But the shop's cake is very delicious. So I will still support you. Yes, the cake is delicious, it's okay, so I will still support you. Sending 1000 hearts. When can I receive the cake? Also, I ordered a chocolate croissant roll but was delivered strawberry... :(((( Because I can't eat strawberries... Oh no :((("
+    },
+    {
+        "org_comment": "Hết choco và hạt dẻ cười ạ? :((\r",
+        "reconstructed_comment": "Hết sô-cô-la và hạt dẻ cười rồi ạ? :(",
+        "eng_comment": "Are we out of chocolate and pistachios?"
+    },
+    {
+        "org_comment": "hôm qua e gần tới lun là tiệm báo hết 🥹\r\n",
+        "reconstructed_comment": "Hôm qua em gần tới nơi thì tiệm báo hết hàng.",
+        "eng_comment": "Yesterday, when I was almost there, the store said they were out of stock."
+    },
+    {
+        "org_comment": "sao mình nt shop kêu còn mà gọi điện lúc đó luôn thì shop lại kêu hết\nnên mình k có ghé\r\nem biết rồi nhưng mà là hôm qua e gọi hỏi lúc 8h kém là nay tiệm có.xuống bánh cho khách lẻ mua không\r\nthì bạn bảo là chỉ có bánh khách đặt thôi\r\ne chỉ gọi hỏi cho chắc trước khi qua mua thôi chứ k có ý nhờ giữ dùm á\r\nngày trước e gọi thì nv cũng nói là nay khách lấy đủ bánh nên không có bánh nữa\r\n",
+        "reconstructed_comment": "I texted the shop and they said they still had some, but when I called right after, they said they were out of stock, so I didn't go. I understand now, but yesterday I called around 7:50 AM to ask if the shop would have any extra cakes for individual customers today. You said that there were only cakes for pre-orders. I just called to confirm before coming to buy, not to ask you to hold any for me. Previously, when I called, the staff also mentioned that all the cakes were reserved for customers, so there were none left.",
+        "eng_comment": "I texted the shop and they said they still had some, but when I called right after, they said they were out of stock, so I didn't go. I understand now, but yesterday I called around 7:50 AM to ask if the shop would have any extra cakes for individual customers today. You said that there were only cakes for pre-orders. I just called to confirm before coming to buy, not to ask you to hold any for me. Previously, when I called, the staff also mentioned that all the cakes were reserved for customers, so there were none left."
+    },
+    {
+        "org_comment": "À dạ v th để e đặt sau ạ tại h e đang thèm định đặt lun🥹\r",
+        "reconstructed_comment": "À, dạ vâng, thế để em đặt sau ạ, tại giờ em đang thèm nên định đặt luôn 🥹.",
+        "eng_comment": "Ah, yes, I'll order later, because I'm craving it now so I was planning to order right away."
+    },
+    {
+        "org_comment": "Shop ơi shop có giao lộn địa chỉ không ạ tại shipper mới gọi cho em á bảo là đường số 37 gì gì đó ah:((\nDạ,mà tại ship bị sai xa lắm ạ,tận bên quận 2 mà qua đến địa chỉ em gửi thì cũng mất hết 10km lận ạ:((\nMà lúc nhận em còn phải trả thêm tiền ship nữa ạ\r\n\r\n",
+        "reconstructed_comment": "Shop ơi, shop có giao nhầm địa chỉ không ạ? Tại vì shipper mới gọi cho em, bảo là đang ở đường số 37 gì đó. Dạ, mà địa chỉ bị sai xa lắm ạ, tận bên quận 2, mà qua đến địa chỉ em gửi thì cũng mất hết 10km lận ạ. Mà lúc nhận hàng, em còn phải trả thêm tiền ship nữa ạ.",
+        "eng_comment": "Shop, did you deliver to the wrong address? Because the shipper just called me, saying they are on some street number 37. The address is very wrong, all the way in District 2, and it's a full 10km to the address I provided. And when I receive the goods, I have to pay extra for shipping as well."
+    },
+    {
+        "org_comment": "Em cũng thèm lắm mà đợi lâu quá hong nổi 🥲\r",
+        "reconstructed_comment": "Em cũng thèm lắm mà đợi lâu quá không nổi 🥲",
+        "eng_comment": "I really crave it too, but I've been waiting too long and can't stand it."
+    },
+    {
+        "org_comment": "ui ship cao v ạ\nv th e cảm ơn shop nhiều ạ",
+        "reconstructed_comment": "Ui, ship hàng nhanh quá ạ. Vậy thì em cảm ơn shop nhiều ạ.",
+        "eng_comment": "Wow, the delivery was so fast. Thank you very much, shop."
+    },
+    {
+        "org_comment": "Mong là có\r\n",
+        "reconstructed_comment": "Hy vọng là có.",
+        "eng_comment": "Hope so."
+    },
+    {
+        "org_comment": "E ăn bánh rồi\r\nNhân rất ngon, kiểu fresh chứ k phải kiểu hoá học\r\nCó vỏ bánh hơi có xíu mùi dầu\r\nE nhận xét theo cảm nhận thôi ạ, nếu cảm thấy k hài lòng thì bỏ qa giúp em\r\nCó thể do e để tủ lạnh lâu nên nhất nó k chảy ra như clip\r\nE góp ý v thôi, e cũng k hiểu rõ về bánh, chỉ là cảm nhânn thôi\r\n",
+        "reconstructed_comment": "I have eaten the cake. The filling is very delicious, fresh, not the artificial kind. The crust has a slight smell of oil. I'm just sharing my personal opinion, so if you're not satisfied, please overlook it. It might be because I kept it in the fridge for too long, so the filling didn't ooze out like in the video. I'm just giving my feedback; I don't really understand much about cakes, it's just my personal feeling.",
+        "eng_comment": "I have eaten the cake. The filling is very delicious, fresh, not the artificial kind. The crust has a slight smell of oil. I'm just sharing my personal opinion, so if you're not satisfied, please overlook it. It might be because I kept it in the fridge for too long, so the filling didn't ooze out like in the video. I'm just giving my feedback; I don't really understand much about cakes, it's just my personal feeling."
+    },
+    {
+        "org_comment": "Bánh ngon lắm shop hơi, nướng lại ăn vỏ giòn, nhân kem nhìu, vị matcha thơm lắm nha",
+        "reconstructed_comment": "Bánh rất ngon, cửa hàng làm hơi nhiều, nướng lại thì vỏ giòn, nhân kem nhiều, vị matcha rất thơm.",
+        "eng_comment": "The cake is very delicious, the store makes a bit too much, but when reheated, the crust is crispy, the cream filling is abundant, and the matcha flavor is very fragrant."
+    },
+    {
+        "org_comment": "Shop ơi nào shop giao cho mình thế ạ\r\nGiờ mình không có ở nhà rùi ya\r\nMai shop giao lại giúp mình dc hong",
+        "reconstructed_comment": "Shop ơi, khi nào shop giao hàng cho mình vậy ạ? Hiện tại mình không có ở nhà rồi. Ngày mai shop giao lại giúp mình được không?",
+        "eng_comment": "Hi shop, when will you deliver the goods to me? I'm not at home right now. Can you deliver it again for me tomorrow?"
+    },
+    {
+        "org_comment": "dạ th dịp khác e ghé ạ\r",
+        "reconstructed_comment": "Dạ, để dịp khác em ghé ạ.",
+        "eng_comment": "Yes, I'll visit another time."
+    },
+    {
+        "org_comment": "Nếu m4 còn dư bánh thì b có thể gọi mình đc k ạ\r",
+        "reconstructed_comment": "Nếu mà còn dư bánh thì bạn có thể gọi mình được không ạ?",
+        "eng_comment": "If there are any leftover cakes, could you let me know?"
+    },
+    {
+        "org_comment": "Shop trống lịch bánh chưa ạ\r",
+        "reconstructed_comment": "Cửa hàng có trống lịch để làm bánh chưa ạ?",
+        "eng_comment": "Does the store have availability to make cakes?"
+    },
+    {
+        "org_comment": "Bánh của tui có chưa tiệm ui\r\n",
+        "reconstructed_comment": "Bánh của tôi có chưa, tiệm ơi?",
+        "eng_comment": "Is my cake ready, shop?"
+    },
+    {
+        "org_comment": "Ua m có dặn là trưa lây ma b ha",
+        "reconstructed_comment": "Mẹ có dặn là trưa lấy mạ về nhà.",
+        "eng_comment": "Mom told me to bring the rice seedlings home at noon."
+    },
+    {
+        "org_comment": "à\r\nzay là sau 20h\r\ncũng có thể có mà đúng hong\r\nmà nhìu hong shop\r\nqua hong có",
+        "reconstructed_comment": "\"À, vậy là sau 20h cũng có thể có mà, đúng không? Mà nhiều không shop? Qua không có.\"",
+        "eng_comment": "\"Ah, so it can be available after 8 PM, right? Is there a lot, shop? Yesterday there wasn't any.\""
+    },
+    {
+        "org_comment": "Bên mình có cho thanh toán bằng thẻ không ạ",
+        "reconstructed_comment": "Bên mình có chấp nhận thanh toán bằng thẻ không ạ?",
+        "eng_comment": "Do you accept payment by card?"
+    },
+    {
+        "org_comment": "Dạ k ạ, e cần bánh sớm hơn, 15 trễ quá ạ\r\n",
+        "reconstructed_comment": "Dạ không ạ, em cần bánh sớm hơn, 15 giờ trễ quá ạ.",
+        "eng_comment": "No, I need the cake earlier, 3 PM is too late."
+    },
+    {
+        "org_comment": "Dạ vâng mình cảm ơn ạ, sẽ ủng hộ bạn nhiều nha\r",
+        "reconstructed_comment": "Dạ, vâng, mình cảm ơn ạ. Sẽ ủng hộ bạn nhiều nha.",
+        "eng_comment": "Yes, thank you. I will support you a lot."
+    },
+    {
+        "org_comment": "Dạ hoi để mai mốt j nha sốp\r\n",
+        "reconstructed_comment": "Dạ, hỏi để mai mốt gì nha shop.",
+        "eng_comment": "Yes, I'm asking for future reference, shop."
+    },
+    {
+        "org_comment": "Bánh ngon lắm ạ\r",
+        "reconstructed_comment": "The cake is very delicious.",
+        "eng_comment": "The cake is very delicious."
+    },
+    {
+        "org_comment": "ủa bạn hôm mình order cho đơn 10/4 rồi mà\nmình cọc luôn rồi á?\nb nhớ note lại nha",
+        "reconstructed_comment": "Ủa bạn, hôm trước mình đã đặt hàng cho đơn ngày 10/4 rồi mà, mình cũng đã đặt cọc luôn rồi á. Bạn nhớ ghi chú lại nha.",
+        "eng_comment": "Hey, I already placed an order for April 10th the other day, and I've also made a deposit. Please make a note of it."
+    },
+    {
+        "org_comment": "Vậy bây giờ em mất cọc hay sao ạ\r",
+        "reconstructed_comment": "Vậy bây giờ em có bị mất tiền cọc không ạ?",
+        "eng_comment": "So now, will I lose my deposit?"
+    },
+    {
+        "org_comment": "dạ khi nào em mới nhận được bánh ạ\r",
+        "reconstructed_comment": "Dạ, khi nào em mới nhận được bánh ạ?",
+        "eng_comment": "Yes, when will I receive the cake?"
+    },
+    {
+        "org_comment": "dạ khi nào em mới nhận được bánh ạ\r",
+        "reconstructed_comment": "Dạ, khi nào em mới nhận được bánh ạ?",
+        "eng_comment": "Yes, when will I receive the cake?"
+    },
+    {
+        "org_comment": "mình có đặt bánh sáng nay có chưa ajj\r\n",
+        "reconstructed_comment": "Mình có đặt bánh sáng nay chưa vậy?",
+        "eng_comment": "Did I order the cake this morning?"
+    },
+    {
+        "org_comment": "mình có gọi mà k ai nghe máy\r",
+        "reconstructed_comment": "Mình có gọi mà không ai nghe máy.",
+        "eng_comment": "I called but no one answered."
+    },
+    {
+        "org_comment": "giao giúp mình chưa vậy shop\r\n",
+        "reconstructed_comment": "Shop, bạn đã giao hàng giúp mình chưa?",
+        "eng_comment": "Shop, have you delivered the goods for me yet?"
+    },
+    {
+        "org_comment": "Dạ bánh vừa khẩu vị em lắm lun kem kh bị ngọt quá vừa ăn nhen tiệm ưiii",
+        "reconstructed_comment": "Dạ, bánh vừa khẩu vị em lắm luôn, kem không bị ngọt quá, vừa ăn nha tiệm ơi.",
+        "eng_comment": "Yes, the cake suits my taste very well, the cream is not too sweet, just right, shop."
+    },
+    {
+        "org_comment": "Oki để tầm đó mình đặt\r\n",
+        "reconstructed_comment": "Okay, I'll place the order around that time.",
+        "eng_comment": "Okay, I'll place the order around that time."
+    },
+    {
+        "org_comment": "dạ tiệm cho em huỷ bánh nha ạa:<\r\n",
+        "reconstructed_comment": "Dạ, tiệm cho em huỷ bánh nha ạ.",
+        "eng_comment": "Yes, please cancel the cake for me."
+    },
+    {
+        "org_comment": "Em nhận được roàii\nVà bánh ngonn lắm ạ",
+        "reconstructed_comment": "Em nhận được rồi và bánh ngon lắm ạ.",
+        "eng_comment": "I received it and the cake is very delicious."
+    },
+    {
+        "org_comment": "Tiệm kín đơn đến 3.4 lận ạ? Vậy có thể note đơn tớ vào cuối tuần đấy k? Là ngày 7.4 ấy ạ\r\n",
+        "reconstructed_comment": "Tiệm kín đơn đến ngày 3 tháng 4 phải không ạ? Vậy có thể ghi chú đơn của tôi vào cuối tuần đó không? Là ngày 7 tháng 4 ấy ạ.",
+        "eng_comment": "The shop is closed for orders until April 3rd, right? So can you note my order for the end of that week? That would be April 7th."
+    },
+    {
+        "org_comment": "Bếp nhớ note đơn của tớ vào cuối tuần đấy nha 🫶🏻 tớ cám ơn ạ\r",
+        "reconstructed_comment": "Bếp nhớ ghi chú đơn của tớ vào cuối tuần nhé. Tớ cảm ơn ạ.",
+        "eng_comment": "Please remember to note my order at the end of the week. Thank you."
+    },
+    {
+        "org_comment": "Bếp ơi bánh của tớ nay có rùi đúng khum ạaa\r",
+        "reconstructed_comment": "Bếp ơi, bánh của tớ hôm nay có rồi đúng không ạ?",
+        "eng_comment": "\"Hey Kitchen, my cake is ready today, right?\""
+    },
+    {
+        "org_comment": "Tớ hẹn ngày khác lấy được hong ạ huhuuuu\r",
+        "reconstructed_comment": "Tớ hẹn ngày khác lấy được không ạ? Huhuuuu.",
+        "eng_comment": "Can I reschedule to another day? Huhuuuu."
+    },
+    {
+        "org_comment": "Tớ đổi qua date khác rồi mà bếp ơi?",
+        "reconstructed_comment": "Tớ đã đổi sang ngày khác rồi, bếp ơi?",
+        "eng_comment": "I've changed to another day, kitchen?"
+    },
+    {
+        "org_comment": "Bếp ship cho tớ chưa ạ?\r",
+        "reconstructed_comment": "Bếp đã được giao cho tôi chưa ạ?",
+        "eng_comment": "Has the stove been delivered to me yet?"
+    },
+    {
+        "org_comment": "xin cám ơn xốp đã bán bánh ngoong cho chúng toaii\r",
+        "reconstructed_comment": "Xin cảm ơn shop đã bán bánh ngon cho chúng tôi.",
+        "eng_comment": "Thank you to the shop for selling us delicious cakes."
+    },
+    {
+        "org_comment": "Quá nà ngon lun á 🫶🏼\r",
+        "reconstructed_comment": "Quá là ngon luôn á 🫶🏼",
+        "eng_comment": "It's really delicious."
+    },
+    {
+        "org_comment": "à thế thoi mình cảm ơn nhe\r",
+        "reconstructed_comment": "À, thế thôi. Mình cảm ơn nhé!",
+        "eng_comment": "Oh, that's all. Thank you!"
+    },
+    {
+        "org_comment": "Bạn có thể hổ trợ giúp mình k ạ\n",
+        "reconstructed_comment": "Bạn có thể hỗ trợ giúp mình không ạ?",
+        "eng_comment": "Can you assist me, please?"
+    },
+    {
+        "org_comment": "Ngày mai bạn có thể ưu tiên cho mình xin được giao hàng sớm lúc 2h chiều ko\r\nMình có việc gấp phải về quê nên muốn mang về quê biếu luôn ạ hic hic\r\nBạn có thể hổ trợ giúp mình k ạ\r\n",
+        "reconstructed_comment": "Ngày mai, bạn có thể ưu tiên cho mình xin được giao hàng sớm lúc 2 giờ chiều không? Mình có việc gấp phải về quê nên muốn mang về quê biếu luôn ạ. Bạn có thể hỗ trợ giúp mình không ạ?",
+        "eng_comment": "Tomorrow, could you prioritize arranging for an early delivery at 2 PM? I have an urgent matter and need to return to my hometown, so I want to bring it as a gift. Can you assist me with this?"
+    },
+    {
+        "org_comment": "Mình lấy rui nha bánh ngon lắm mình sẽ ủng hộ tiệm lan sau nha\r",
+        "reconstructed_comment": "Mình đã lấy rồi nhé, bánh ngon lắm. Mình sẽ ủng hộ tiệm Lan sau nhé.",
+        "eng_comment": "I've already taken it, the cake is delicious. I will support Lan's shop later."
+    },
+    {
+        "org_comment": "s cọc hoài v bạn\r",
+        "reconstructed_comment": "Sao cọc hoài vậy bạn?",
+        "eng_comment": "Why do you keep being so stubborn?"
+    },
+    {
+        "org_comment": "Dạ sinh nhật ngiu ạ, mà ngiu em hok thích phô mai với hok thích ngọt lắm í\r",
+        "reconstructed_comment": "Dạ, sinh nhật người yêu ạ, mà người yêu em không thích phô mai với không thích ngọt lắm.",
+        "eng_comment": "Yes, it's my lover's birthday, but my lover doesn't like cheese and doesn't like sweets much."
+    },
+    {
+        "org_comment": "Sao mình nhắn shop xem không trả lời vậy ạ\r",
+        "reconstructed_comment": "Tại sao mình nhắn tin cho shop mà không thấy trả lời vậy ạ?",
+        "eng_comment": "Why haven't I received a reply when I messaged the shop?"
+    },
+    {
+        "org_comment": "Ủa cọc là sao á b\r",
+        "reconstructed_comment": "Ủa, cọc là sao vậy bạn?",
+        "eng_comment": "\"Ủa, cọc là sao vậy bạn?\" translates to \"Oh, what does 'cọc' mean, friend?\" in English."
+    },
+    {
+        "org_comment": "Sorry shop nha\r",
+        "reconstructed_comment": "Sorry, shop is closed.",
+        "eng_comment": "Sorry, shop is closed."
+    },
+    {
+        "org_comment": "bữa em quên fb cho sốp\r\nhơi buồn chút là em qua thì bánh ra hơi trễ và cảm giác vỏ bánh hơi khô quá nhân thì chưa được rõ vị matcha nhma tổng thể vẫn ok ạ lần sau em lại đặt mong sẽ ngon hơnn hihi",
+        "reconstructed_comment": "Hôm trước em quên không vào Facebook để cho shop biết. Hơi buồn một chút là khi em đến thì bánh ra hơi trễ và cảm giác vỏ bánh hơi khô, nhân thì chưa rõ vị matcha lắm. Nhưng tổng thể vẫn ổn ạ. Lần sau em sẽ đặt lại, mong sẽ ngon hơn. Hihi.",
+        "eng_comment": "The other day I forgot to go on Facebook to let the shop know. A bit disappointed that when I arrived, the cake was a bit late and the crust felt a bit dry, and the filling didn't have a clear matcha flavor. But overall, it was still okay. Next time I will order again, hoping it will be better. Haha."
+    },
+    {
+        "org_comment": "bánh ngọt quá sốp ơi 🥹 mình ăn ngọt dữ ròi mà sốt bị khé cổ luon í. hong biét mẻ khác như nào chứ bánh mình ăn bị vậy í ạ\ndạ cả 2 đều ngọt quá á sốp nhất là nhân kem ạ\r\nmình thích ăn ngọt lắm nên ko ngán đồ ngọt đâu msf bánh hqua mình ăn khé cổ luon an\r\nmình ăn cái nhân trà sữa là nó cứ ngọt khé cổ mình cứ tưởng vị vani ko á sốp tại ko nghe mùi trà sữa và chỉ có quá ngọt thui, mùi ngọt như sữa đặc é\r\nbánh pistachio cũng vậy ạ, ngọt và bột bánh than tre nhưng lại ko đc giòn xốp như crossiant mà mình cảm tưởng như ăn bánh bông lan than tre á\r\n",
+        "reconstructed_comment": "Bánh ngọt quá sốp ơi 🥹. Mình ăn ngọt dữ rồi mà sốt bị khé cổ luôn í. Không biết mẻ khác như thế nào chứ bánh mình ăn bị vậy í ạ. Dạ, cả hai đều ngọt quá á sốp, nhất là nhân kem ạ. Mình thích ăn ngọt lắm nên không ngán đồ ngọt đâu, nhưng bánh hôm qua mình ăn khé cổ luôn. Mình ăn cái nhân trà sữa mà nó cứ ngọt khé cổ, mình cứ tưởng vị vani không á sốp, tại không nghe mùi trà sữa và chỉ có quá ngọt thôi, mùi ngọt như sữa đặc é. Bánh pistachio cũng vậy ạ, ngọt và bột bánh than tre nhưng lại không được giòn xốp như croissant mà mình cảm tưởng như ăn bánh bông lan than tre á.",
+        "eng_comment": "The cake is too sweet, dear. I'm used to eating sweet things, but the sauce made my throat scratchy. I don't know how other batches are, but the cake I ate was like that. Yes, both are too sweet, especially the cream filling. I love eating sweet things, so I'm not afraid of sweets, but the cake I ate yesterday made my throat scratchy. I ate the milk tea filling, and it was so sweet that it scratched my throat. I thought it was vanilla flavor because I couldn't taste the milk tea, just overwhelming sweetness, like condensed milk. The pistachio cake was the same, sweet with bamboo charcoal powder, but it wasn't crispy like a croissant; it felt like eating a bamboo charcoal sponge cake."
+    },
+    {
+        "org_comment": "sao b bảo là k nhận giữ đơn á\r\n",
+        "reconstructed_comment": "Sao bạn bảo là không nhận giữ đơn à?",
+        "eng_comment": "Why did you say you wouldn't hold the order?"
+    },
+    {
+        "org_comment": "Mình đặt bây h chắc ko có bánh đâu hả bạn\r\n",
+        "reconstructed_comment": "Mình đặt bây giờ chắc không có bánh đâu hả bạn?",
+        "eng_comment": "If I order now, there probably won't be any cake, right?"
+    },
+    {
+        "org_comment": "Bạn ơi sao shop ko báo mình\nLà ship 45k v bạn\nTưởng shop phải báo vs mình phí ship chứ\nNếu ko mình đã tự đặt ship r\nMình có phí giảm giá ship mà\nShop tệ vãi\nBt mình mua đồ đặt thấy ship cao shop ngta toàn báo bạn ơi ship cao bạn tự đặt đc ko hay như nào\nShop đặt bất chấp vô trách nhiệm luôn\nPhí ship cai bằng cái bánh mà cũng đặt đc\nCao*\nTiền ship ko bao nhiêu nhưng làm v thì khách bị mất cảm tình đó bạn\nLúc nãy đáng lẽ mình trả bánh cho shipper mang về slr\nNhưng mình thây làm v mình áy náy á\nTrên app thì ko để bánh crs\nBắt khách phải đặt qua page\nĐặt qua thì book ship tới bến vô trách nhiệm ko thèm báo tiền ship luôn\n2 bánh 85k mà shipper lấy mình 140k là 55k tiền ship hả :)))\nỦa sao trên menu 2 bánh 85 mà ship bảo 95 v shop\n",
+        "reconstructed_comment": "Bạn ơi, sao shop không báo cho mình biết là phí ship là 45k vậy? Mình tưởng shop phải thông báo với mình về phí ship chứ. Nếu không, mình đã tự đặt ship rồi vì mình có mã giảm giá ship mà. Shop làm ăn tệ quá. Bình thường, khi mình mua đồ mà thấy phí ship cao, các shop khác đều báo \"bạn ơi, ship cao, bạn tự đặt được không\" hoặc như thế nào đó. Còn shop này thì đặt bất chấp, vô trách nhiệm luôn. Phí ship cao như cái bánh mà cũng đặt được. Tiền ship không bao nhiêu nhưng làm vậy thì khách mất cảm tình đó bạn. Lúc nãy, đáng lẽ mình đã trả bánh cho shipper mang về, xin lỗi. Nhưng mình thấy làm vậy thì áy náy quá. Trên app thì không để bánh, bắt khách phải đặt qua page. Đặt qua thì book ship tới bến, vô trách nhiệm, không thèm báo tiền ship luôn. Hai bánh 85k mà shipper lấy mình 140k, là 55k tiền ship hả? :))) Ủa, sao trên menu hai bánh 85k mà ship bảo 95k vậy shop?",
+        "eng_comment": "Hey, why didn't the shop inform me that the shipping fee is 45k? I thought the shop should notify me about the shipping fee. Otherwise, I would have arranged the shipping myself because I have a shipping discount code. The shop's service is really bad. Normally, when I buy something and see a high shipping fee, other shops would inform me \"Hey, the shipping fee is high, can you arrange it yourself?\" or something like that. But this shop just places the order regardless, very irresponsible. The shipping fee is as high as the cake itself, yet they still place the order. The shipping fee isn't much, but doing this makes customers lose their goodwill. Earlier, I almost returned the cake to the shipper, sorry. But I felt too guilty to do that. On the app, they don't list the cake, forcing customers to order through the page. When ordered, they book the shipping irresponsibly, not even bothering to inform about the shipping cost. Two cakes cost 85k, but the shipper charged me 140k, is that 55k for shipping? :))) Why does the menu say two cakes are 85k, but the shipper says 95k, shop?"
+    },
+    {
+        "org_comment": "dạ ndung tn bị unavailable rùi shop oii\r",
+        "reconstructed_comment": "Dạ, nội dung tin bị unavailable rồi shop ơi.",
+        "eng_comment": "Yes, the content of the message is unavailable now, shop."
+    },
+    {
+        "org_comment": "shop ơi hnay em có việc dời sang ngày mai đc kh ạ\r",
+        "reconstructed_comment": "Shop ơi, hôm nay em có việc, có thể dời sang ngày mai được không ạ?",
+        "eng_comment": "Shop, I have something to do today, can I reschedule to tomorrow?"
+    },
+    {
+        "org_comment": "shop oi hnay em bận kh đến lấy đc ạ\r",
+        "reconstructed_comment": "Shop ơi, hôm nay em bận không đến lấy được ạ.",
+        "eng_comment": "Shop, I'm busy today and can't come to pick it up."
+    },
+    {
+        "org_comment": "Free ship cho mình đi\r",
+        "reconstructed_comment": "Vui lòng miễn phí vận chuyển cho tôi.",
+        "eng_comment": "Please provide free shipping for me."
+    },
+    {
+        "org_comment": "Dạ e k chốt nữa nha sốp ơi\r",
+        "reconstructed_comment": "Dạ, em không chốt nữa nha, shop ơi.",
+        "eng_comment": "Yes, I won't confirm the order anymore, shop."
+    },
+    {
+        "org_comment": "nay mình hong có kem sữa ạ 😞\r\n",
+        "reconstructed_comment": "Hôm nay mình không có kem sữa ạ. 😞",
+        "eng_comment": "Today I don't have any cream."
+    },
+    {
+        "org_comment": "huhu giá cao v hả sốp 🥹\r",
+        "reconstructed_comment": "Huhu, giá cao vậy hả shop? 🥹",
+        "eng_comment": "Huhu, is the price that high, shop?"
+    },
+    {
+        "org_comment": "dạ vâng ạ để mình snghi rồi có gì nhắn shop sau ạ, mình cảm ơn nhiều ạ\r",
+        "reconstructed_comment": "Dạ vâng ạ, để mình suy nghĩ rồi có gì mình sẽ nhắn cho shop sau ạ. Mình cảm ơn nhiều ạ.",
+        "eng_comment": "Yes, let me think about it and I'll message the shop later. Thank you very much."
+    },
+    {
+        "org_comment": "Dạ em cảm ơn em tưởng ko bán lm em lo quá\r",
+        "reconstructed_comment": "Dạ, em cảm ơn. Em tưởng không bán được làm em lo quá.",
+        "eng_comment": "Yes, thank you. I was worried that it wouldn't sell."
+    },
+    {
+        "org_comment": "À thiệt ra là do mình cần gấp chứ k đợi đc ý shop ơi\r",
+        "reconstructed_comment": "Thật ra là do mình cần gấp chứ không đợi được ý, shop ơi.",
+        "eng_comment": "Actually, it's because I need it urgently and can't wait, shop."
+    },
+    {
+        "org_comment": "ngày gần nhất em có thể đặt bánh là ngày mấy sốp ha",
+        "reconstructed_comment": "Ngày gần nhất em có thể đặt bánh là ngày nào, shop ha?",
+        "eng_comment": "What is the earliest date I can order a cake, shop?"
+    },
+    {
+        "org_comment": "tại em thấy sốp đăng ghi full đơn mấy ngày lận 🥺\r",
+        "reconstructed_comment": "Tại em thấy shop đăng ghi là đã nhận đủ đơn mấy ngày rồi 🥺",
+        "eng_comment": "Because I saw the shop post that they have received enough orders for several days already."
+    },
+    {
+        "org_comment": "đau lòngg\r",
+        "reconstructed_comment": "đau lòng",
+        "eng_comment": "heartbroken"
+    },
+    {
+        "org_comment": "dạ v thoi em k đặt nữa ạ 🤦🏻‍♀️\r",
+        "reconstructed_comment": "Dạ, vậy thôi em không đặt nữa ạ. 🤦🏻‍♀️",
+        "eng_comment": "Okay, then I won't place the order anymore."
+    },
+    {
+        "org_comment": "Ship liền hơi cao, hic coa j tí mìn ghé shop hay đặt onl nhe :(( thanks shop\r",
+        "reconstructed_comment": "The shipping fee is a bit high, so I might visit the shop or order online. Thank you, shop.",
+        "eng_comment": "The shipping fee is a bit high, so I might visit the shop or order online. Thank you, shop."
+    },
+    {
+        "org_comment": "Tiệm còn không ạ?\r",
+        "reconstructed_comment": "Tiệm còn mở cửa không ạ?",
+        "eng_comment": "Is the shop still open?"
+    },
+    {
+        "org_comment": "Ship đắt v ạ @@\r",
+        "reconstructed_comment": "Shipping is expensive, right? @@",
+        "eng_comment": "Shipping is expensive, right?"
+    },
+    {
+        "org_comment": "Chắc hôm khác mình đặt nhé",
+        "reconstructed_comment": "Chắc hôm khác mình sẽ đặt nhé.",
+        "eng_comment": "I'll probably order on another day."
+    },
+    {
+        "org_comment": "Sry shop😅e k cố ý huỷ đơn đâu, tại em cãi nhau nên em quên mất, tầm ngày 10 em vào sg em nhắn lại địa chỉ có gì shop ship qua dùm em, em ck cọc trước cho ha\r\nSry shop nhiều",
+        "reconstructed_comment": "Xin lỗi shop, em không cố ý hủy đơn đâu, tại em cãi nhau nên quên mất. Khoảng ngày 10 em vào Sài Gòn, em sẽ nhắn lại địa chỉ để shop gửi hàng giúp em. Em sẽ chuyển khoản cọc trước cho shop nhé. Xin lỗi shop nhiều.",
+        "eng_comment": "Sorry shop, I didn't mean to cancel the order, I forgot because I had an argument. Around the 10th, I'll be in Saigon, and I'll message you the address so you can send the goods to me. I'll transfer the deposit to the shop first. Sorry shop a lot."
+    },
+    {
+        "org_comment": "shop ơi\r\ne mới đặt bánh xong ấy\r\ncái bánh roll croisant nhân matcha có vị lạ lắm ạ\r\nnó chua chua như kiểu bị lên men á\r\nhay là kem vị nó v ạ ...",
+        "reconstructed_comment": "Shop ơi,\nEm mới đặt bánh xong ấy. Cái bánh roll croissant nhân matcha có vị lạ lắm ạ. Nó chua chua như kiểu bị lên men á. Hay là kem vị nó vậy ạ?",
+        "eng_comment": "Hi Shop,\nI just ordered the cake. The matcha-filled croissant roll has a strange taste. It's a bit sour like it's fermented. Or is the cream supposed to taste like that?"
+    },
+    {
+        "org_comment": "bánh ngon lắm ạaa\r",
+        "reconstructed_comment": "Bánh ngon lắm ạ!",
+        "eng_comment": "The cake is very delicious!"
+    },
+    {
+        "org_comment": "dạ sao hqua em đặt đc mà nay vô k đc vậy ạ\ncó hôm e thấy có hôm k thấy\r\n",
+        "reconstructed_comment": "Dạ, sao hôm qua em đặt được mà hôm nay vào không được vậy ạ? Có hôm em thấy, có hôm không thấy.",
+        "eng_comment": "Yes, why was I able to book yesterday but not today? Some days I see it, some days I don't."
+    },
+    {
+        "org_comment": "Dạ shop ơi, hôm nay lúc 18h48p bạn em có ghé mình để mua 1 hộp bánh custard mix vị, trước đó em cũng có ăn của mình vài lần rùi và bánh rất ngon ạ. Thế nhưng mà không biết sao hôm nay em ăn bánh thì lại bị chua, mùi kiểu như bánh bị hư ấy ạ phải bỏ bánh vì ăn hong được :(( có gì shop check lại bánh nha",
+        "reconstructed_comment": "Dạ shop ơi, hôm nay lúc 18h48 bạn em có ghé qua để mua một hộp bánh custard mix vị. Trước đó, em cũng đã ăn bánh của shop vài lần rồi và thấy rất ngon. Tuy nhiên, hôm nay khi em ăn bánh thì lại thấy bị chua, có mùi như bánh bị hư vậy. Em phải bỏ bánh vì không thể ăn được. Mong shop kiểm tra lại bánh giúp em nhé.",
+        "eng_comment": "Hello shop, today at 18:48 my friend came by to buy a box of mixed flavor custard cakes. Previously, I have also eaten the shop's cakes a few times and found them very delicious. However, today when I ate the cake, it tasted sour and had a smell like it was spoiled. I had to throw the cake away because it was inedible. I hope the shop can check the cakes for me."
+    },
+    {
+        "org_comment": "À mình chỉ góp ý để shop kiểm tra bánh lại để không bán cho người khác ý, với nếu shop hoàn thì hoàn mình 2/3 giá trị hộp bánh đc r vì có 1 cái ăn vẫn ok í\r",
+        "reconstructed_comment": "Mình chỉ góp ý để shop kiểm tra lại bánh, tránh bán cho người khác. Nếu shop hoàn tiền thì hoàn lại cho mình 2/3 giá trị hộp bánh được không, vì có một cái ăn vẫn ổn.",
+        "eng_comment": "I'm just suggesting that the shop check the cake to avoid selling it to others. If the shop refunds, can you refund me 2/3 of the value of the box of cakes, because one of them is still okay to eat."
+    },
+    {
+        "org_comment": "Nãy em có ghé mua 1 roll croissant matcha, 1 tart trứng với 1 cái set custard 3 vị\r\nMà cái custard 3 vị có bánh socola và matcha nó bị chua chua 🥲\r\nCái matcha thì bị khô cứng á shop",
+        "reconstructed_comment": "Lúc nãy em có ghé mua 1 cuộn croissant matcha, 1 tart trứng và 1 set custard 3 vị. Nhưng cái custard 3 vị có bánh socola và matcha thì bị chua chua. Còn cái matcha thì bị khô cứng, shop ơi.",
+        "eng_comment": "Earlier, I stopped by to buy 1 matcha croissant roll, 1 egg tart, and 1 set of 3-flavor custard. But the 3-flavor custard with chocolate and matcha was sour. And the matcha was dry and hard, shop."
+    },
+    {
+        "org_comment": "Cái socola nghe mùi chua lắm có gì shop kiểm tra bánh lại nha",
+        "reconstructed_comment": "Cái socola có mùi chua lắm, shop kiểm tra lại bánh giúp mình nhé.",
+        "eng_comment": "The chocolate has a very sour smell, please check the cake for me."
+    },
+    {
+        "org_comment": "Nó bị hơi xấu th á cũng ksao\r\nSau b làm dính chặt tí nhe :(( nó lạng tùm lum may là k hỏng hình  nma nhìn k đẹp mắt lắm\n",
+        "reconstructed_comment": "Nó hơi xấu một chút nhưng cũng không sao. Sau đó, bạn làm cho nó dính chặt hơn nhé. Nó bị lệch lung tung, may là không hỏng hình, nhưng nhìn không đẹp mắt lắm.",
+        "eng_comment": "It's a bit ugly, but it's okay. After that, make it stick better. It's misaligned all over the place, luckily it didn't ruin the picture, but it doesn't look very nice."
+    },
+    {
+        "org_comment": "Cái đế nó ko có dính cái bánh :))))\r",
+        "reconstructed_comment": "Cái đế không dính vào cái bánh.",
+        "eng_comment": "The base does not stick to the cake."
+    },
+    {
+        "org_comment": "s em thấy bên mấy ứng dụng không có nhiều loại bánh á\r\n",
+        "reconstructed_comment": "Em thấy bên mấy ứng dụng không có nhiều loại bánh.",
+        "eng_comment": "I see that there aren't many types of cakes on the apps."
+    },
+    {
+        "org_comment": "Bạn ơi kbiet shipper bên bạn đã giao hàng chưa ạ 🥹\nTức là giờ vẫn chưa có ai nhận ship ạ hay ship đang đi r vậy bạn\r\nừ bạn đặt luôn giúp mình. mình đã note là nếu k liên lạc dc cho người nhận thì gọi vào số mình rồi mà mình cũng k thấy shipper gọi gì\r\n",
+        "reconstructed_comment": "Bạn ơi, không biết shipper bên bạn đã giao hàng chưa ạ? 🥹\nTức là giờ vẫn chưa có ai nhận ship ạ, hay ship đang đi rồi vậy bạn?\nỪ, bạn đặt luôn giúp mình. Mình đã ghi chú là nếu không liên lạc được với người nhận thì gọi vào số của mình rồi, mà mình cũng không thấy shipper gọi gì cả.",
+        "eng_comment": "Hi, do you know if your shipper has delivered the package yet?\nSo, has no one accepted the delivery yet, or is it already on the way?\nYes, please place the order for me. I've noted that if the recipient cannot be reached, they should call my number, but I haven't received any call from the shipper."
+    },
+    {
+        "org_comment": "bánh ngon lắm sốp ơi , em ko kịp chụp luôn đã hết r\r\nbánh thơm mà hong bị ngọt mê lắm sốp oi",
+        "reconstructed_comment": "Bánh ngon lắm, shop ơi! Em không kịp chụp luôn, đã hết rồi. Bánh thơm mà không bị ngọt, mê lắm, shop ơi!",
+        "eng_comment": "The cake is very delicious, shop! I didn't have time to take a picture, it's all gone. The cake is fragrant but not too sweet, I love it, shop!"
+    },
+    {
+        "org_comment": "dạ ngon lắm ạ , mẹ e khen nhìu lớm hihi\ndạ chắc chắn rùi hihi , mẹ e còn kêu mốt mua kêu mẹ để mẹ cúng ông địa nữa 🤗\r\n\r\n",
+        "reconstructed_comment": "Dạ, ngon lắm ạ. Mẹ em khen nhiều lắm, hihi. Dạ, chắc chắn rồi, hihi. Mẹ em còn nói lần sau mua thì bảo mẹ để mẹ cúng ông địa nữa. 🤗",
+        "eng_comment": "Yes, it's very delicious. My mom praised it a lot, haha. Yes, definitely, haha. My mom also said that next time when buying, let her know so she can offer it to the Earth God as well."
+    },
+    {
+        "org_comment": "Aroma mình ăn bánh ròi nhé\r\nBánh ngon lắm\r\nThơm mùi cà phê với mùi rượu lắm\r\nĂn hok có bị ngán",
+        "reconstructed_comment": "Mình đã ăn bánh ở Aroma rồi nhé. Bánh rất ngon, thơm mùi cà phê và mùi rượu. Ăn không bị ngán.",
+        "eng_comment": "I have eaten cake at Aroma. The cake is very delicious, with the aroma of coffee and liquor. It's not cloying."
+    },
+    {
+        "org_comment": "Bánh ngon lắm lun á shop ơiiii\r\nNgười lớn ăn ai cũm khen ngon hết á 🥰\r\nĂn hok có bị ngán 🥰",
+        "reconstructed_comment": "Bánh ngon lắm luôn á shop ơi!\nNgười lớn ăn ai cũng khen ngon hết á 🥰\nĂn không có bị ngán 🥰",
+        "eng_comment": "The cake is really delicious, shop!\nAll the adults who ate it praised it for being tasty.\nIt's not cloying at all."
+    },
+    {
+        "org_comment": "Bánh kem của mình được giao chưa á???\r",
+        "reconstructed_comment": "Bánh kem của mình đã được giao chưa?",
+        "eng_comment": "Has my cake been delivered yet?"
+    },
+    {
+        "org_comment": "ngày 28/2 em có ghé qa shop mua 1c roll croissant thì e thấy nhân kem rất nhiều và đúng như trên clip\r\n\r\nngày 30/4 em có đến mua thêm nhưng lần này thì bánh ko ngon như đợt trc, kem rất ít luôn ạ, em nghĩ chắc tại lễ đông khách nên bánh như vậy\r\n\r\nhôm nay em đến mua thêm 2c nữa nhưng e hơi thất vọng vì kem vẫn ít như ngày 30/4, ko ngon như lần đầu em ăn \r\n:((( \r\nem góp ý và mong shop cải thiện chất lượng bánh nha",
+        "reconstructed_comment": "Vào ngày 28/2, em đã ghé qua cửa hàng để mua một chiếc bánh croissant cuộn và thấy rằng nhân kem rất nhiều, đúng như trong video clip. Đến ngày 30/4, em quay lại mua thêm nhưng lần này bánh không ngon như lần trước, kem rất ít. Em nghĩ có thể do dịp lễ đông khách nên bánh mới như vậy. Hôm nay, em đến mua thêm hai chiếc nữa nhưng hơi thất vọng vì kem vẫn ít như ngày 30/4, không ngon như lần đầu em ăn. Em xin góp ý và mong cửa hàng cải thiện chất lượng bánh nhé.",
+        "eng_comment": "On February 28th, I visited the store to buy a croissant roll and found that there was a lot of cream filling, just like in the video clip. On April 30th, I went back to buy more, but this time the pastry wasn't as good as before, with very little cream. I thought it might be because of the holiday rush that the pastry turned out that way. Today, I came to buy two more, but I was a bit disappointed because the cream was still as little as on April 30th, not as good as the first time I had it. I would like to give feedback and hope the store improves the quality of the pastries."
+    },
+    {
+        "org_comment": "Mình định đăng hình bánh vs thiệp mà shop chụp dậy là chịu r :))\r",
+        "reconstructed_comment": "Mình định đăng hình bánh và thiệp mà shop chụp như vậy là chịu rồi :))",
+        "eng_comment": "I was planning to post pictures of the cake and card, but the way the shop took them, I give up."
+    },
+    {
+        "org_comment": "Dạ được ạ ... nhưng 1h30 thì e không đến lấy được nên shop ship cho em nha\r",
+        "reconstructed_comment": "Dạ, được ạ. Nhưng 1h30 thì em không đến lấy được, nên shop ship cho em nhé.",
+        "eng_comment": "Yes, that's fine. But I can't come to pick it up at 1:30, so please deliver it to me."
+    },
+    {
+        "org_comment": "Bánh ngon lắm tiệm ơi\r\nMình cảm ơn nhó\r\n",
+        "reconstructed_comment": "Bánh ngon lắm tiệm ơi! Mình cảm ơn nhé!",
+        "eng_comment": "The cake is very delicious, shop! Thank you!"
+    },
+    {
+        "org_comment": "Ui hic méc quá, thui để hôm nào xuống tp mình mua tiếp v\r\n",
+        "reconstructed_comment": "Ui, hôm nay mình không có nhiều thời gian, để hôm nào xuống thành phố mình mua tiếp nhé.",
+        "eng_comment": "Oh, I don't have much time today, let's continue shopping when I go to the city another day."
+    },
+    {
+        "org_comment": "E nhận được bánh rồi nhá shop\nĐẹp qtr luôn",
+        "reconstructed_comment": "Em nhận được bánh rồi nhé shop. Đẹp quá trời luôn!",
+        "eng_comment": "I received the cake, shop. It's so beautiful!"
+    },
+    {
+        "org_comment": "Huhu buồn quá à tại em mới coi tiktok thích bánh shop lắm luôn\r",
+        "reconstructed_comment": "Huhu, buồn quá à! Tại em mới coi TikTok, thích bánh của shop lắm luôn.",
+        "eng_comment": "Huhu, I'm so sad! I just watched TikTok and I really like the shop's cakes."
+    },
+    {
+        "org_comment": "Dạ hẹn tiệm lần sau nhen, bạn em mua bánh luôn r ạ :((\r",
+        "reconstructed_comment": "Dạ, hẹn tiệm lần sau nhé, bạn em đã mua bánh rồi ạ :((",
+        "eng_comment": "Yes, let's plan for next time, my friend has already bought the cake :("
+    },
+    {
+        "org_comment": "ship nội thành mà đắt vậy ạ",
+        "reconstructed_comment": "Giao hàng trong nội thành mà giá lại đắt như vậy ạ?",
+        "eng_comment": "\"Is the delivery within the city really that expensive?\""
+    },
+    {
+        "org_comment": "Dạ e cảm ơn, bánh ngon lắm ạ",
+        "reconstructed_comment": "Dạ, em cảm ơn, bánh ngon lắm ạ.",
+        "eng_comment": "Yes, thank you, the cake is very delicious."
+    },
+    {
+        "org_comment": "Híc mai mốt shop kề thêm cái vách ngăn cho đẹp 🥲\r",
+        "reconstructed_comment": "Híc, mai mốt shop sẽ kê thêm cái vách ngăn cho đẹp 🥲",
+        "eng_comment": "Sigh, in the future the shop will add a partition to make it look nicer."
+    },
+    {
+        "org_comment": "Ban đầu báo ship là 30\nSao giờ là 37k ạ?",
+        "reconstructed_comment": "Ban đầu báo phí ship là 30k, sao bây giờ lại là 37k ạ?",
+        "eng_comment": "Initially, the shipping fee was reported as 30k, why is it now 37k?"
+    },
+    {
+        "org_comment": "Nhà mình cũng xa\r\nMắc công qua ko có",
+        "reconstructed_comment": "Nhà mình cũng xa, mắc công qua không có.",
+        "eng_comment": "My house is also far away, it's inconvenient to come over and not have anything."
+    },
+    {
+        "org_comment": "Ủa mình có đặt trước nay tới lấy mà ta\r\n",
+        "reconstructed_comment": "Ủa, mình có đặt trước, hôm nay tới lấy mà ta?",
+        "eng_comment": "\"Oh, I made a reservation, I'm supposed to pick it up today, right?\""
+    },
+    {
+        "org_comment": "M nt địa chỉ bên zalo rồi ạ\r\nNhờ quán chếch giùm mình",
+        "reconstructed_comment": "Mình đã gửi địa chỉ qua Zalo rồi ạ. Nhờ quán kiểm tra giúp mình.",
+        "eng_comment": "I have sent the address via Zalo. Please help me check it."
+    },
+    {
+        "org_comment": "Em đang cần gấp ạ\r",
+        "reconstructed_comment": "Em đang cần gấp ạ.",
+        "eng_comment": "I need it urgently."
+    },
+    {
+        "org_comment": "Bên hotline mới xác nhận với mình đơn này nha\r\n",
+        "reconstructed_comment": "Bên hotline vừa xác nhận với mình đơn này nhé.",
+        "eng_comment": "The hotline just confirmed this order with me."
+    },
+    {
+        "org_comment": "Hi admin, hôm bữa em có ord bánh bên mình . Service check tin nhắn lên đơn khá là nhanh và ok\r\nBánh bên mình k quá ngọt phù hợp với khẩu vị em, vị choco ngon nhất, vỏ cũng khá thơm mùi bơ, bỏ lạnh ăn vẫn giòn\r\nNhưng mà tiếc một điều là bên mình giao nhầm đơn em ord í ạ, em ord 1 choco và 1 matcha nhưng bên mình giao em matcha thành trà sữa . Vì vậy em hi vọng bên mình có thể check kĩ và nhắn cho em trước khi giao bánh cho em ạ!\r\nCảm ơn Aroma nhiều ạ!",
+        "reconstructed_comment": "Hi admin, hôm trước em có đặt bánh bên mình. Dịch vụ kiểm tra tin nhắn và lên đơn khá nhanh và ổn. Bánh bên mình không quá ngọt, phù hợp với khẩu vị của em, vị chocolate là ngon nhất, vỏ cũng khá thơm mùi bơ, để lạnh ăn vẫn giòn. Tuy nhiên, tiếc là bên mình đã giao nhầm đơn hàng của em. Em đã đặt 1 bánh chocolate và 1 bánh matcha, nhưng bên mình lại giao nhầm matcha thành trà sữa. Vì vậy, em hy vọng bên mình có thể kiểm tra kỹ và nhắn cho em trước khi giao bánh. Cảm ơn Aroma nhiều ạ!",
+        "eng_comment": "Hi admin, the other day I ordered a cake from you. The service for checking messages and processing orders was quite fast and efficient. The cake wasn't too sweet, which suited my taste, and the chocolate flavor was the best. The crust was also quite fragrant with a buttery smell, and it remained crispy when chilled. However, unfortunately, you delivered the wrong order to me. I ordered 1 chocolate cake and 1 matcha cake, but you mistakenly delivered matcha as milk tea. Therefore, I hope you can check carefully and notify me before delivering the cake. Thank you very much, Aroma!"
+    },
+    {
+        "org_comment": "shop ơi bánh của mình tới đâu r ạ\r\n",
+        "reconstructed_comment": "Shop ơi, bánh của mình tới đâu rồi ạ?",
+        "eng_comment": "Shop, where is my cake now?"
+    },
+    {
+        "org_comment": "Ngon xĩu\nYummy",
+        "reconstructed_comment": "Delicious and mouthwatering.",
+        "eng_comment": "Delicious and mouthwatering."
+    },
+    {
+        "org_comment": "Bánh đẹp mắt, chủ quán thân thiện, tư vấn nhiệt tình",
+        "reconstructed_comment": "The cake is visually appealing, the shop owner is friendly, and provides enthusiastic advice.",
+        "eng_comment": "The cake is visually appealing, the shop owner is friendly, and provides enthusiastic advice."
+    },
+    {
+        "org_comment": "Bánh ngon, không gian thích hợp để nch, chạy dl , quán có 3 bàn để khách ngồi lại thui nha, nước rẻ ngon ✨ mình mua hộp custard ngồi ăn lại, mượn quán 2 cái đĩa để bày ra chụp hình mà quán cũng cho lun 😙 siêu nice",
+        "reconstructed_comment": "The pastries are delicious, and the space is suitable for chatting and working. The shop has only three tables for customers to sit at, and the drinks are affordable and tasty. I bought a box of custard to eat there and borrowed two plates from the shop to display and take pictures, and they kindly allowed it. Super nice!",
+        "eng_comment": "The pastries are delicious, and the space is suitable for chatting and working. The shop has only three tables for customers to sit at, and the drinks are affordable and tasty. I bought a box of custard to eat there and borrowed two plates from the shop to display and take pictures, and they kindly allowed it. Super nice!"
+    },
+    {
+        "org_comment": "Bánh ngon, đẹp mà giá ok nữa",
+        "reconstructed_comment": "The cake is delicious, beautiful, and reasonably priced.",
+        "eng_comment": "The cake is delicious, beautiful, and reasonably priced."
+    },
+    {
+        "org_comment": "Bánh ngon, phục vụ nhiệt tình nhaaa!",
+        "reconstructed_comment": "Bánh rất ngon, phục vụ rất nhiệt tình nhé!",
+        "eng_comment": "The cake is very delicious, and the service is very enthusiastic!"
+    },
+    {
+        "org_comment": "Bánh tạo hình đa dạng và thơm lắm ạ. Mình mua 2 bánh Halloween đến 31.10 hết ạ",
+        "reconstructed_comment": "The cakes come in a variety of shapes and are very fragrant. I bought two Halloween cakes, and they will be available until October 31st.",
+        "eng_comment": "The cakes come in a variety of shapes and are very fragrant. I bought two Halloween cakes, and they will be available until October 31st."
+    },
+    {
+        "org_comment": "Bánh ngon nha",
+        "reconstructed_comment": "The cake is delicious.",
+        "eng_comment": "The cake is delicious."
+    },
+    {
+        "org_comment": "Tưởng google đánh giá nhiều ⭐ thế nào mới ghé thử, ai ngờ bán bánh cũ hôi dầu má ơi. Toàn seedings thôi mn nên né",
+        "reconstructed_comment": "Tôi tưởng Google đánh giá nhiều sao nên mới ghé thử, ai ngờ họ bán bánh cũ và có mùi dầu, thật thất vọng. Toàn là đánh giá ảo thôi mọi người nên tránh xa.",
+        "eng_comment": "I thought Google rated it highly, so I decided to try it out, but it turns out they sell old pastries with an oily smell, really disappointing. It's all fake reviews, everyone should stay away."
+    },
+    {
+        "org_comment": "Bánh ở đây ngon lắm nha mọi người",
+        "reconstructed_comment": "Bánh ở đây rất ngon, mọi người ạ.",
+        "eng_comment": "The cakes here are very delicious, everyone."
+    },
+    {
+        "org_comment": "Bánh ngon lắm nha, ăn không ngán, khi nào đi qua cũng muaa",
+        "reconstructed_comment": "Bánh rất ngon, ăn không bị ngán. Khi nào đi qua, tôi cũng mua.",
+        "eng_comment": "The cake is very delicious and not cloying. Whenever I pass by, I always buy it."
+    },
+    {
+        "org_comment": "Bánh ở đây rất ngon, nhân viên dễ thương, nhiệt tình, nhân bánh matcha rất ngon và lạ.",
+        "reconstructed_comment": "The cakes here are very delicious, the staff is friendly and enthusiastic, and the matcha filling is both tasty and unique.",
+        "eng_comment": "The cakes here are very delicious, the staff is friendly and enthusiastic, and the matcha filling is both tasty and unique."
+    },
+    {
+        "org_comment": "mình đặt bánh trên Grab ăn rất ngon, lúc giao tới bánh vẫn còn nóng và giòn. Mọi người nên thử bánh mì bơ tỏi nhé, ăn rất ngon và thơm",
+        "reconstructed_comment": "I ordered bread on Grab, and it was very delicious. When it was delivered, the bread was still hot and crispy. Everyone should try the garlic butter bread; it's very tasty and fragrant.",
+        "eng_comment": "I ordered bread on Grab, and it was very delicious. When it was delivered, the bread was still hot and crispy. Everyone should try the garlic butter bread; it's very tasty and fragrant."
+    },
+    {
+        "org_comment": "So damn good, especially the moon cakes.",
+        "reconstructed_comment": "The moon cakes are exceptionally good.",
+        "eng_comment": "The moon cakes are exceptionally good."
+    },
+    {
+        "org_comment": "Bánh rất ngon, giá cả ok. Không khí vui vẻ, ấm cúng.",
+        "reconstructed_comment": "The cake is very delicious, and the price is reasonable. The atmosphere is cheerful and cozy.",
+        "eng_comment": "The cake is very delicious, and the price is reasonable. The atmosphere is cheerful and cozy."
+    },
+    {
+        "org_comment": "Mình đặt bánh kem ở đây và nó rất ngon, giá cả phải chăng so với mặt bằng chung về tiệm bánh. NV khi nhắn tin thì rất dễ thương và nhiệt tình. Khi đến tiệm nhận bánh thì mình thấy cách bài trí rất đẹp tạo cảm giác ấm cúng. Sẽ ủng hộ tiệm bánh thêm nữa !!!!",
+        "reconstructed_comment": "I ordered a cake here and it was very delicious, with prices that are reasonable compared to the average bakery. The staff were very friendly and enthusiastic when communicating via messages. When I arrived at the shop to pick up the cake, I found the decor to be very beautiful, creating a cozy atmosphere. I will definitely support this bakery more in the future!",
+        "eng_comment": "I ordered a cake here and it was very delicious, with prices that are reasonable compared to the average bakery. The staff were very friendly and enthusiastic when communicating via messages. When I arrived at the shop to pick up the cake, I found the decor to be very beautiful, creating a cozy atmosphere. I will definitely support this bakery more in the future!"
+    },
+    {
+        "org_comment": "Bánh trung thu tiệm làm giá ổn áp, bánh nở đều đẹp. Packaging cũng khá là ưng ý 10đ\nBánh trung thu tiệm làm quà tặng cũng hay vì có nhiều nhân mới mẻ😍😍",
+        "reconstructed_comment": "The mooncakes from the shop are reasonably priced and beautifully baked. The packaging is also quite satisfactory, deserving a 10/10. These mooncakes make great gifts as they come with many new and exciting fillings.😍😍",
+        "eng_comment": "The mooncakes from the shop are reasonably priced and beautifully baked. The packaging is also quite satisfactory, deserving a 10/10. These mooncakes make great gifts as they come with many new and exciting fillings."
+    },
+    {
+        "org_comment": "Mình đến Aroma lúc đó cũng trễ nên bánh còn lại không quá đa dạng, nhưng bánh ngon bất ngờ. Mình mua croissant thường và croissant bơ tỏi. Điểm đặc biệt ở đây theo mình nghĩ là cái sốt trứng muối ăn kèm với bánh. Mua 1 hộp sốt ăn thử thôi nên là ăn xong vẫn còn thèm, kiểu nó thơm ngậy, vừa mặn vừa ngọt nên bắt miệng lắm. Bánh mình mua được bạn nhân viên làm nóng tại chỗ luôn nên dù chạy một chặng đường xa về nhà bánh vẫn còn ấm ấm thơm thơm, không bị khô lại.\n\nMình có lướt sơ qua menu đồ uống, thấy phong phú với giá rẻ hơn nhiều so với mấy quán khác. Lần sau sẽ quay lại thử đồ uống xem sao",
+        "reconstructed_comment": "Mình đến Aroma khá muộn nên các loại bánh còn lại không quá đa dạng, nhưng bánh lại ngon bất ngờ. Mình đã mua croissant thường và croissant bơ tỏi. Điểm đặc biệt ở đây, theo mình, là sốt trứng muối ăn kèm với bánh. Mình chỉ mua một hộp sốt để ăn thử, nhưng ăn xong vẫn còn thèm vì sốt thơm ngậy, vừa mặn vừa ngọt, rất hợp khẩu vị. Bánh mình mua được nhân viên làm nóng tại chỗ, nên dù phải chạy một quãng đường xa về nhà, bánh vẫn còn ấm và thơm, không bị khô.\n\nMình có lướt qua menu đồ uống và thấy rất phong phú với giá rẻ hơn nhiều so với các quán khác. Lần sau mình sẽ quay lại để thử đồ uống xem sao.",
+        "eng_comment": "I arrived at Aroma quite late, so the remaining pastries weren't very diverse, but they were surprisingly delicious. I bought a regular croissant and a garlic butter croissant. The special thing here, in my opinion, is the salted egg sauce that comes with the pastries. I only bought one box of sauce to try, but after eating, I still craved more because the sauce was fragrant, rich, both salty and sweet, and very much to my taste. The pastries I bought were heated by the staff on the spot, so even though I had to travel a long distance home, they were still warm and fragrant, not dry.\n\nI glanced through the drink menu and found it very diverse with prices much cheaper than other places. Next time, I will come back to try the drinks."
+    },
+    {
+        "org_comment": "vừa mua bánh trung thu ở aroma và thật sự rất ưng ý. Vỏ bánh mềm, thơm, không quá ngọt, ăn không bị ngán. Nhân đa dạng, đặc biệt vị bò cay Taiwan nha mng, rất vừa miệng. Giá cả hợp lý, mình mua 1 hộp 6 cái nhỏ, chất lượng bánh thì tuyệt vời, thêm cô chủ quán thân thiện, dễ thương nữa. Chắc chắn mình sẽ quay lại mua vào mùa trung thu năm sau!",
+        "reconstructed_comment": "I just bought mooncakes at Aroma and I'm really satisfied. The crust is soft, fragrant, not too sweet, and not overwhelming. The filling is diverse, especially the spicy Taiwan beef flavor, which is very tasty. The price is reasonable; I bought a box of 6 small cakes, and the quality is excellent. Additionally, the shop owner is friendly and lovely. I will definitely come back to buy more next Mid-Autumn Festival!",
+        "eng_comment": "I just bought mooncakes at Aroma and I'm really satisfied. The crust is soft, fragrant, not too sweet, and not overwhelming. The filling is diverse, especially the spicy Taiwan beef flavor, which is very tasty. The price is reasonable; I bought a box of 6 small cakes, and the quality is excellent. Additionally, the shop owner is friendly and lovely. I will definitely come back to buy more next Mid-Autumn Festival!"
+    },
+    {
+        "org_comment": "Có siro lá phong.",
+        "reconstructed_comment": "There is maple syrup.",
+        "eng_comment": "There is maple syrup."
+    },
+    {
+        "org_comment": "Mua về cho con gái ăn bị tiêu chảy!",
+        "reconstructed_comment": "Tôi đã mua về cho con gái ăn, nhưng sau đó cháu bị tiêu chảy.",
+        "eng_comment": "I bought it for my daughter to eat, but then she had diarrhea."
+    },
+    {
+        "org_comment": "giá hơi cao.nhưng ngon nha",
+        "reconstructed_comment": "Giá hơi cao, nhưng ngon nha.",
+        "eng_comment": "The price is a bit high, but it's delicious."
+    },
+    {
+        "org_comment": "Bánh date cũ hay sao mà có mùi hôi dầu, Chèo kéo khách, mình thích tự lựa mà cứ tư vấn bánh này bánh nọ như ép mua",
+        "reconstructed_comment": "Bánh có phải là hàng cũ không mà lại có mùi hôi dầu? Nhân viên chèo kéo khách hàng, mình thích tự chọn bánh mà cứ bị tư vấn mua bánh này bánh nọ như thể ép mua.",
+        "eng_comment": "Is the cake old stock that it has a rancid oil smell? The staff are pushy with customers; I like to choose the cake myself but keep being advised to buy this or that cake as if being forced to buy."
+    },
+    {
+        "org_comment": "Chèo kéo khách mua thêm bánh, chắc ế quá",
+        "reconstructed_comment": "Người bán hàng đang cố gắng chèo kéo khách hàng mua thêm bánh, có lẽ vì hàng đang ế.",
+        "eng_comment": "The seller is trying to persuade customers to buy more cakes, perhaps because the goods are not selling well."
+    },
+    {
+        "org_comment": "Bị ngon á mn , mình bị bất ngờ vs bánh mì bơ tỏi , mình đi vào 5g chìu nên quán k có ai . Giá okla , bánh k bị quá ngọt 😆",
+        "reconstructed_comment": "Món ăn ở đây rất ngon mọi người ạ, mình rất bất ngờ với món bánh mì bơ tỏi. Mình đến quán vào lúc 5 giờ chiều nên quán không có ai. Giá cả hợp lý, bánh không bị quá ngọt.",
+        "eng_comment": "The food here is very delicious, everyone. I was very surprised by the garlic butter bread. I went to the restaurant at 5 PM, so there was no one there. The prices are reasonable, and the bread is not too sweet."
+    },
+    {
+        "org_comment": "Nhiệt tình uy tín",
+        "reconstructed_comment": "Nhiệt tình và uy tín",
+        "eng_comment": "Enthusiasm and credibility"
+    },
+    {
+        "org_comment": "Bánh siu ngon luôn ạ mà siu rẻ nữa",
+        "reconstructed_comment": "Bánh siêu ngon luôn ạ mà siêu rẻ nữa.",
+        "eng_comment": "The cake is super delicious and also super cheap."
+    },
+    {
+        "org_comment": "Nhân viên dễ thương",
+        "reconstructed_comment": "Nhân viên dễ thương",
+        "eng_comment": "Cute staff"
+    },
+    {
+        "org_comment": "quán xinh, bánh ngon, nhân viên nhiệt tình dễ thương. Mình đặt cho bạn thui mà bạn khen quá tr khen hihiii mng nên ghé nhé",
+        "reconstructed_comment": "Quán xinh, bánh ngon, nhân viên nhiệt tình và dễ thương. Mình đặt cho bạn thôi mà bạn khen quá trời khen. Hihiii, mọi người nên ghé nhé!",
+        "eng_comment": "The shop is cute, the cakes are delicious, and the staff is enthusiastic and lovely. I ordered for a friend, and they couldn't stop praising it. Hihiii, everyone should visit!"
+    },
+    {
+        "org_comment": "Đồ ăn tuyệt vời.",
+        "reconstructed_comment": "The food is wonderful.",
+        "eng_comment": "The food is wonderful."
+    },
+    {
+        "org_comment": "ngonnn",
+        "reconstructed_comment": "The original text seems to be a typo or an informal expression. It could be an exaggerated form of the word \"gonna,\" which is a colloquial contraction of \"going to.\"",
+        "eng_comment": "The original text seems to be a typo or an informal expression. It could be an exaggerated form of the word \"gonna,\" which is a colloquial contraction of \"going to.\""
+    },
+    {
+        "org_comment": "Highly recommend bánh croissant socola nha mọi người ơiii. Bánh siêu ngon, kem ko bị ngọt quá. Mình ghé 2 lần và cả 2 anh nhân viên đều rất dễ thương ạ :3. Quán 10 đỉm hông có nhưng nhaaa",
+        "reconstructed_comment": "I highly recommend the chocolate croissant, everyone! The pastry is super delicious, and the cream isn't too sweet. I've visited twice, and both times the staff were very friendly. The place deserves a perfect score, no doubt about it!",
+        "eng_comment": "I highly recommend the chocolate croissant, everyone! The pastry is super delicious, and the cream isn't too sweet. I've visited twice, and both times the staff were very friendly. The place deserves a perfect score, no doubt about it!"
+    },
+    {
+        "org_comment": "Thấy mn review nhiều trên tiktok trông bánh ngon quá nên mình ghé mua thử, không gian quán deco đơn giản dễ thương, yên tĩnh để hò hẹn trò chuyện hoặc chạy deadline\nBánh và nước thì ngon khỏi bàn mà giá cả phải chăng chỉ từ 30 cành💚\nLần thứ hai, đặt bánh Croissant matcha với socola về ăn thử h ghiền thiệt nha 🤤🥐\nAnh chị chủ quán dễ thương, nhẹ nhàng nhiệt tình 🥰",
+        "reconstructed_comment": "Thấy mọi người review nhiều trên TikTok, trông bánh ngon quá nên mình ghé mua thử. Không gian quán được trang trí đơn giản, dễ thương, yên tĩnh, thích hợp để hẹn hò trò chuyện hoặc làm việc. Bánh và nước thì ngon không chê vào đâu được mà giá cả lại phải chăng, chỉ từ 30 nghìn đồng. Lần thứ hai, mình đặt bánh Croissant matcha với socola về ăn thử, ghiền thật sự. Anh chị chủ quán dễ thương, nhẹ nhàng và nhiệt tình.",
+        "eng_comment": "Seeing many people review it on TikTok, the cake looked so delicious that I decided to stop by and try it. The shop's space is decorated simply, cutely, and quietly, suitable for dating, chatting, or working. The cakes and drinks are delicious beyond criticism, and the prices are reasonable, starting from only 30,000 VND. The second time, I ordered a matcha croissant with chocolate to try at home, and I really got hooked. The shop owners are lovely, gentle, and enthusiastic."
+    },
+    {
+        "org_comment": "Bánh rất ngon , nv tư vấn nhiệt tình và vui vẻ . Sure quay lại nhìu lần nữa 😉",
+        "reconstructed_comment": "Bánh rất ngon, nhân viên tư vấn nhiệt tình và vui vẻ. Chắc chắn sẽ quay lại nhiều lần nữa 😉",
+        "eng_comment": "The cake is very delicious, and the staff is enthusiastic and cheerful. Definitely will come back many more times."
+    },
+    {
+        "org_comment": "Bánh ngon nhen! Kem ko quá ngọt nè",
+        "reconstructed_comment": "Bánh ngon nhé! Kem không quá ngọt nè.",
+        "eng_comment": "The cake is delicious! The cream is not too sweet."
+    },
+    {
+        "org_comment": "Khi mình đặt chân vào tiệm có mùi bánh rất thơm, các bạn nhân viên nhiệt tình và dễ thương dặn dò mình rất kỹ khi mua bánh mang về ❤️",
+        "reconstructed_comment": "Khi tôi bước vào tiệm, có mùi bánh rất thơm. Các bạn nhân viên rất nhiệt tình và dễ thương, họ dặn dò tôi rất kỹ khi mua bánh mang về. ❤️",
+        "eng_comment": "When I entered the shop, there was a very fragrant smell of cake. The staff were very enthusiastic and lovely, they gave me detailed instructions when I bought the cake to take away."
+    },
+    {
+        "org_comment": "Mọi người ở quán nhiệt tình, dễ thương, bánh chất lượng lắm",
+        "reconstructed_comment": "Mọi người ở quán rất nhiệt tình và dễ thương, bánh ở đây cũng rất chất lượng.",
+        "eng_comment": "The people at the shop are very enthusiastic and lovely, and the cakes here are also of very high quality."
+    },
+    {
+        "org_comment": "Ngon cực luôn nha",
+        "reconstructed_comment": "It's extremely delicious!",
+        "eng_comment": "It's extremely delicious!"
+    },
+    {
+        "org_comment": "Nhân viên và quản lý dễ thương, mình hong có đặt bánh trước nhưng mấy bạn cũng hỗ trợ để mình có bánh ăn nựaa. Bánh ngon kem đầy ụ lun",
+        "reconstructed_comment": "Nhân viên và quản lý rất dễ thương. Mình không đặt bánh trước nhưng các bạn vẫn hỗ trợ để mình có bánh ăn. Bánh ngon và kem rất đầy.",
+        "eng_comment": "The staff and management are very nice. I didn't order the cake in advance, but they still helped me to have a cake to eat. The cake is delicious and the cream is very rich."
+    },
+    {
+        "org_comment": "bánh hơi ngọt so với khẩu vị của mình",
+        "reconstructed_comment": "The cake is a bit too sweet for my taste.",
+        "eng_comment": "The cake is a bit too sweet for my taste."
+    },
+    {
+        "org_comment": "Mình đã đặt bánh trước và được tiệm hẹn 11/4, khi bước vào quán, thà các bạn nhân viên khỏi chào chứ đừng kiểu ngồi ở ghế quay lưng với cửa, mình đi tận vào trong rồi chào như vậy thiếu tôn trọng lắm, mình ĐẶT TRƯỚC NÊN NẾU CÓ VẤN ĐỀ GÌ THÌ PHẢI GỌI BÁO VỚI MÌNH, giải quyết thiếu chuyên nghiệp, lúc bạn thu ngân bảo mình do máy hư gì đó không có bánh mình đặt và kêu chọn bánh khác, trong khi mình đã đặt trước ? Bạn nói máy hư lúc nãy mà không có biện pháp giải quyết nào sao? Lúc đó mình giữ im lặng vì mình sợ mình không bình tĩnh nói những lời không hay, mình thật sự THẤT VỌNG. MONG LẦN SAU TIỆM HÃY BÁO TRƯỚC VỚI NHỮNG ĐƠN ĐÃ ĐẶT TRƯỚC. KHÔNG BAO GIỜ QUAY LẠI.",
+        "reconstructed_comment": "Tôi đã đặt bánh trước và được tiệm hẹn lấy vào ngày 11/4. Khi bước vào quán, tôi cảm thấy không hài lòng khi các bạn nhân viên không chào hỏi mà ngồi quay lưng lại với cửa. Tôi đã phải đi vào tận bên trong mới được chào, điều này thật thiếu tôn trọng. Tôi đã đặt trước, nên nếu có vấn đề gì thì tiệm cần phải gọi báo cho tôi. Cách giải quyết của tiệm rất thiếu chuyên nghiệp. Bạn thu ngân nói với tôi rằng do máy hư nên không có bánh tôi đã đặt và yêu cầu tôi chọn bánh khác. Tại sao khi máy hư lại không có biện pháp giải quyết nào? Lúc đó, tôi giữ im lặng vì sợ mình không bình tĩnh và nói những lời không hay. Tôi thật sự thất vọng. Mong lần sau tiệm hãy báo trước với những đơn đã đặt trước. Tôi sẽ không bao giờ quay lại.",
+        "eng_comment": "I pre-ordered a cake and was scheduled to pick it up on April 11th. When I entered the shop, I felt dissatisfied as the staff did not greet me and were sitting with their backs to the door. I had to go all the way inside to be greeted, which felt very disrespectful. I had pre-ordered, so if there were any issues, the shop should have called to inform me. The shop's way of handling the situation was very unprofessional. The cashier told me that due to a machine malfunction, the cake I ordered was not available and asked me to choose another cake. Why was there no solution when the machine malfunctioned? At that moment, I remained silent because I was afraid I wouldn't be calm and might say something inappropriate. I am truly disappointed. I hope next time the shop will inform customers in advance about pre-orders. I will never return."
+    },
+    {
+        "org_comment": "Bánh ngon",
+        "reconstructed_comment": "The cake is delicious.",
+        "eng_comment": "The cake is delicious."
+    },
+    {
+        "org_comment": "mấy anh nv dth thân thiện lắm ạa hyhy bánh xinhh ngonnn lúm mn oi",
+        "reconstructed_comment": "Mấy anh nhân viên dễ thương, thân thiện lắm ạ. Bánh xinh, ngon lắm mọi người ơi!",
+        "eng_comment": "The staff are very lovely and friendly. The cakes are beautiful and very delicious, everyone!"
+    },
+    {
+        "org_comment": "Bạn mình thường mua bánh qua app của tiệm về share cho mình ăn. Chất lượng bánh tương đối ngon so với những tiệm khác.\nNhưng hôm vừa rồi 2 đứa mình có dịp đi ngang nên ghé mua tại tiệm thì sau đó tụi mình quyết định sẽ k quay lại nữa vì vấn đề sức khoẻ.\n\nMình k ghét bỏ vật nuôi. Nhưng ngành mình học thì vật nuôi không phù hợp với những nơi bán thực phẩm. Vậy mà khi ghé tiệm, đập vào mắt mình là bé cún đang nằm trên bàn !!! ??? Và hình như tiệm lúc ấy có 2 3 em cún lận.\n\nTiệm có quá dễ dãi hoặc không biết vấn đề an toan vệ sinh ấy hay k nên để khách tự do mang vật nuôi vào tiệm bánh như vậy.\nSự lo lắng của mình về vấn đề lông lá của các bé cún sẽ vô tình còn lưu lại trên ghế là hoàn toàn có căn cứ. Vậy nếu mình ngồi tại cái bàn ấy sau đó để ăn uống thì chuyện sẽ như thế nào ?\n\nMình thực sự rất tiếc khi chất lượng bánh thì ổn. Nhưng về vệ sinh chung thì…",
+        "reconstructed_comment": "Bạn mình thường mua bánh qua ứng dụng của tiệm và chia sẻ cho mình ăn. Chất lượng bánh tương đối ngon so với những tiệm khác. Tuy nhiên, gần đây, hai đứa mình có dịp đi ngang qua tiệm nên ghé vào mua trực tiếp. Sau đó, chúng mình quyết định sẽ không quay lại nữa vì lý do sức khỏe.\n\nMình không ghét bỏ vật nuôi, nhưng ngành mình học không phù hợp với việc có vật nuôi ở những nơi bán thực phẩm. Khi ghé tiệm, mình thấy một chú cún đang nằm trên bàn! Hình như lúc đó tiệm có 2-3 chú cún.\n\nTiệm có vẻ quá dễ dãi hoặc không nhận thức được vấn đề an toàn vệ sinh khi để khách tự do mang vật nuôi vào tiệm bánh như vậy. Mình lo lắng về việc lông của các chú cún có thể vô tình còn lưu lại trên ghế. Nếu mình ngồi tại cái bàn đó để ăn uống thì sẽ ra sao?\n\nMình thực sự rất tiếc vì chất lượng bánh thì ổn, nhưng về vệ sinh chung thì...",
+        "eng_comment": "My friend often buys cakes through the shop's app and shares them with me. The quality of the cakes is relatively good compared to other shops. However, recently, the two of us had the chance to pass by the shop, so we stopped in to buy directly. After that, we decided not to return due to health reasons.\n\nI don't dislike pets, but my field of study is not compatible with having pets in places that sell food. When we visited the shop, I saw a dog lying on the table! It seemed like there were 2-3 dogs in the shop at that time.\n\nThe shop seems too lenient or unaware of the safety and hygiene issues when allowing customers to freely bring pets into the bakery like that. I'm worried about the dogs' fur possibly lingering on the chairs. What if I sit at that table to eat and drink?\n\nI'm really sorry because the quality of the cakes is fine, but in terms of overall hygiene, it's..."
+    },
+    {
+        "org_comment": "Rất dễ thương ạ",
+        "reconstructed_comment": "Rất dễ thương ạ.",
+        "eng_comment": "Very cute."
+    },
+    {
+        "org_comment": "Bánh ngon nhức cái nách, ăn xong dở cái tay không lên. Mua một lần 10 cái ăn mới đã",
+        "reconstructed_comment": "Bánh ngon đến mức không thể cưỡng lại, ăn xong mệt đến mức không thể nhấc tay lên. Mua một lần 10 cái ăn mới thỏa mãn.",
+        "eng_comment": "The cake is so delicious that it's irresistible, and after eating, you're so tired you can't lift your hand. Buying 10 at a time is the only way to be satisfied."
+    },
+    {
+        "org_comment": "Mặc dù qua đột xuất ko đặt đơn trước nhưng các bạn ở tiệm vẫn niềm nở bán cho mình 4 cái bánh dư ra nên mình vẫn vuiiiiii. Từ Q5 chạy qua cũng đáng mà 💐 bánh ngon 10đ nha sốp",
+        "reconstructed_comment": "Mặc dù mình đến đột xuất và không đặt đơn trước, nhưng các bạn ở tiệm vẫn niềm nở bán cho mình 4 cái bánh dư ra, nên mình rất vui. Từ Quận 5 chạy qua cũng đáng mà. Bánh ngon 10 điểm nha shop!",
+        "eng_comment": "Although I came unexpectedly and didn't place an order in advance, the staff at the shop were still welcoming and sold me 4 extra cakes, so I was very happy. It was worth the trip from District 5. The cakes are delicious, 10 points for the shop!"
+    },
+    {
+        "org_comment": "Gud choice for basic",
+        "reconstructed_comment": "Good choice for basic needs.",
+        "eng_comment": "Good choice for basic needs."
+    },
+    {
+        "org_comment": "- Bước vô cửa thoang thoảng mùi bơ khá thơm. Có 2 khu vực bánh: ngay quầy bên trái khi vừa bước vào và ở quầy tính tiền\n- Bánh thơm, giòn, sốt trứng muối bao dính 😋 Mình tới tiệm mua trực tiếp nên nhân viên sẽ hâm nóng lại trước khi đưa\n- Roll croissant bên đây cháy hàng kinh khủng nên phải đặt trước. Riêng loại pistachio hôm mình đi có dư ra nên mua được liền. Khi nào ăn thì nhân viên mới bơm nhân vào\n- Bánh ngập nhân kem, béo béo nhưng mình k nghĩ pistachio hợp gu 🥲\n- Có chỗ ngồi lại (tầm 3 ghế sofa) và có phục vụ cả nước nhưng mình k nghĩ quán phù hợp để ngồi lại lâu. Chủ yếu là take away\n- Cô chủ và các bạn nhân viên đều thân thiện\n- Đậu xe trước cửa tiệm và tự khoá xe chứ k có bảo vệ 🥲\n- Chung quy vẫn là một trải nghiệm okela với mình",
+        "reconstructed_comment": "- Khi bước vào cửa, bạn sẽ cảm nhận được mùi bơ thơm thoang thoảng. Có hai khu vực bánh: một ở quầy bên trái ngay khi vừa bước vào và một ở quầy tính tiền.\n- Bánh thơm, giòn, và sốt trứng muối bám đều. Tôi đến tiệm mua trực tiếp nên nhân viên sẽ hâm nóng bánh trước khi đưa cho khách.\n- Roll croissant ở đây rất được ưa chuộng nên cần phải đặt trước. Riêng loại pistachio hôm tôi đến thì có dư nên tôi mua được ngay. Khi nào ăn thì nhân viên mới bơm nhân vào bánh.\n- Bánh có nhiều nhân kem, béo ngậy nhưng tôi không nghĩ pistachio hợp khẩu vị của mình.\n- Có chỗ ngồi lại (khoảng 3 ghế sofa) và có phục vụ cả nước uống, nhưng tôi không nghĩ quán phù hợp để ngồi lại lâu. Chủ yếu là để mua mang đi.\n- Cô chủ và các bạn nhân viên đều rất thân thiện.\n- Có thể đậu xe trước cửa tiệm và tự khóa xe vì không có bảo vệ.\n- Tóm lại, đây là một trải nghiệm khá ổn với tôi.",
+        "eng_comment": "- When you step inside, you'll notice a faint buttery aroma. There are two pastry areas: one at the counter on the left as soon as you enter and another at the checkout counter.\n- The pastries are fragrant, crispy, and evenly coated with salted egg yolk sauce. I bought directly from the shop, so the staff warmed up the pastries before handing them to me.\n- The roll croissants here are very popular, so you need to order in advance. On the day I visited, there were extra pistachio ones, so I was able to buy them immediately. The staff only fill the pastries with cream when you're ready to eat.\n- The pastries have a lot of creamy filling, which is rich, but I don't think pistachio suits my taste.\n- There is seating available (about 3 sofas) and they also serve drinks, but I don't think the shop is suitable for a long stay. It's mainly for takeout.\n- The owner and the staff are very friendly.\n- You can park in front of the shop and lock your bike yourself as there is no security.\n- Overall, it was a pretty decent experience for me."
+    },
+    {
+        "org_comment": "Quán đa dạng bánh nha",
+        "reconstructed_comment": "Quán có nhiều loại bánh đa dạng.",
+        "eng_comment": "The shop has a variety of cakes."
+    },
+    {
+        "org_comment": "❗️❗️❗️ THÁI ĐỘ NHÂN VIÊN KHÔNG CẦN KHÁCH ❗️❗️❗️\nMình có ghé vào tiệm bánh thử vì tiện đường về nhà. Tiệm ít nhân viên nên mình đứng đợi cũng hơi lâu.\n- Khi tới lượt mình thì mình chỉ vào bánh trong tủ hỏi :\" bánh này nhân gì vậy anh?\".\n- Anh nhân viên trả lời:\"chị đặt bánh chưa?\"\n- Mình bảo:\" em chưa đặt\"\n- Anh nhân viên nói:\" vậy thì đừng nhìn xuống tủ đó.\" (Thái độ rất là kì cục nha mọi người, mình không tin có thể nói câu này với khách luôn)\n- Tiệm cũng không quá lớn gì mà thái độ nhân viên thì rất KHÔNG TÔN TRỌNG KHÁCH HÀNG.\n- Không bao giờ quay lại!!",
+        "reconstructed_comment": "❗️❗️❗️ THÁI ĐỘ NHÂN VIÊN KHÔNG CẦN KHÁCH ❗️❗️❗️\nHôm nay, mình ghé vào một tiệm bánh trên đường về nhà để thử bánh. Tiệm có ít nhân viên nên mình phải đứng đợi khá lâu.\n- Khi đến lượt mình, mình chỉ vào một chiếc bánh trong tủ và hỏi: \"Bánh này có nhân gì vậy anh?\".\n- Anh nhân viên trả lời: \"Chị đã đặt bánh chưa?\"\n- Mình nói: \"Em chưa đặt.\"\n- Anh nhân viên đáp: \"Vậy thì đừng nhìn xuống tủ đó.\" (Thái độ rất kỳ cục, mình không thể tin được là có thể nói câu này với khách hàng)\n- Tiệm không quá lớn nhưng thái độ của nhân viên rất KHÔNG TÔN TRỌNG KHÁCH HÀNG.\n- Mình sẽ không bao giờ quay lại!!",
+        "eng_comment": "❗️❗️❗️ STAFF ATTITUDE DOESN'T NEED CUSTOMERS ❗️❗️❗️\nToday, I stopped by a bakery on my way home to try some cakes. The shop had few staff, so I had to wait quite a while.\n- When it was my turn, I pointed to a cake in the display and asked: \"What filling does this cake have?\"\n- The staff member replied: \"Have you ordered the cake yet?\"\n- I said: \"I haven't ordered yet.\"\n- The staff member responded: \"Then don't look down at that display.\" (Such a strange attitude, I couldn't believe someone could say this to a customer)\n- The shop isn't very big, but the staff's attitude is very DISRESPECTFUL TO CUSTOMERS.\n- I will never return!!"
+    },
+    {
+        "org_comment": "肉鬆麵包很美味\n店員非常親切\n也有很好的內用位子\n推薦",
+        "reconstructed_comment": "肉鬆麵包非常美味，店員也非常親切，店內還有很好的內用位子，值得推薦。",
+        "eng_comment": "The pork floss bread is very delicious, the staff is very friendly, and there are great seating options inside the store. Highly recommended."
+    },
+    {
+        "org_comment": "Bánh ở đây ngon nha. Quán nhỏ không gian bình thường nhưng bánh làm rất ngon.\nBánh croissant 30k rẻ nhưng chất lượng ngon thơm, mềm must try. Bánh nhân kem dâu ngọt vừa phải. Nhân viên dth thân thiện",
+        "reconstructed_comment": "Bánh ở đây rất ngon. Quán nhỏ, không gian bình thường nhưng bánh được làm rất ngon. Bánh croissant giá 30k, rẻ nhưng chất lượng ngon, thơm và mềm, rất đáng thử. Bánh nhân kem dâu có vị ngọt vừa phải. Nhân viên dễ thương và thân thiện.",
+        "eng_comment": "The pastries here are very delicious. The shop is small, with an ordinary space, but the pastries are made very well. The croissant costs 30k, which is cheap but of good quality, fragrant and soft, definitely worth trying. The strawberry cream filling has a moderate sweetness. The staff are cute and friendly."
+    },
+    {
+        "org_comment": "Nhân viên nhiệt tình, bánh ngon",
+        "reconstructed_comment": "Nhân viên rất nhiệt tình và bánh rất ngon.",
+        "eng_comment": "The staff is very enthusiastic and the cake is very delicious."
+    },
+    {
+        "org_comment": "Toàn bánh hot trend mà bánh nào cũng ngon lắm mng ơi 🤩\nMới tới là có chú bảo vệ mở cửa cho mình rồi ---> 5*\nBước vào quán thấy không khí dễ chịu, decor kiểu Tây hay ho lắm ----> 5*\nCó bạn Quản lý tên Giang siêu dễ thương, giới thiệu bánh nhiệt tình và chuyên nghiệp---->5 *\n\nMình mua nhiều bánh lắm mà tại ngon quá nên măm măm chưa kịp chụp hình.\nSẽ ủng hộ quán lâu dài nha 🥰",
+        "reconstructed_comment": "All the trendy cakes here are delicious, everyone 🤩. As soon as I arrived, a security guard opened the door for me ---> 5*. Stepping into the shop, I felt a pleasant atmosphere, with Western-style decor that was very interesting ----> 5*. There is a manager named Giang who is super cute, enthusiastically and professionally introducing the cakes ----> 5*. I bought a lot of cakes, but they were so delicious that I ate them before I could take pictures. I will definitely support this shop for a long time 🥰.",
+        "eng_comment": "All the trendy cakes here are delicious, everyone. As soon as I arrived, a security guard opened the door for me ---> 5*. Stepping into the shop, I felt a pleasant atmosphere, with Western-style decor that was very interesting ----> 5*. There is a manager named Giang who is super cute, enthusiastically and professionally introducing the cakes ----> 5*. I bought a lot of cakes, but they were so delicious that I ate them before I could take pictures. I will definitely support this shop for a long time."
+    },
+    {
+        "org_comment": "Quán đẹp, bánh ngon, xứng đáng để ngồi lại hehee",
+        "reconstructed_comment": "The café is beautiful, the pastries are delicious, and it's definitely worth staying for a while, hehe.",
+        "eng_comment": "The café is beautiful, the pastries are delicious, and it's definitely worth staying for a while."
+    },
+    {
+        "org_comment": "tuyet voi",
+        "reconstructed_comment": "Tuyệt vời",
+        "eng_comment": "Wonderful"
+    },
+    {
+        "org_comment": "bánh của aroma làm rất ngon và đẹp mắt ạ.",
+        "reconstructed_comment": "Bánh của Aroma làm rất ngon và đẹp mắt ạ.",
+        "eng_comment": "The cakes made by Aroma are very delicious and visually appealing."
+    },
+    {
+        "org_comment": "Dịch vụ tệ vãi chưởng , mình tới mua bánh đồng ý với vc đông sẽ ko có hàng để bán , nhưng cách xử lí kém thiệt sự , đã tới tiệm mua mà còn giao thiếu nữa . Mình rất okay với bn nv , riêng qly thôi thua . Bye ko có lần t2",
+        "reconstructed_comment": "Dịch vụ thật tệ, mình đến mua bánh và đồng ý rằng vì đông khách nên có thể không có hàng để bán. Tuy nhiên, cách xử lý của cửa hàng thực sự kém, mình đã đến tận nơi mua mà còn bị giao thiếu hàng. Mình rất hài lòng với các nhân viên, nhưng riêng quản lý thì không thể chấp nhận được. Tạm biệt, sẽ không có lần thứ hai.",
+        "eng_comment": "The service was really bad. I came to buy cakes and agreed that because it was crowded, there might not be any available for sale. However, the store's handling was really poor. I went there in person to buy, yet they still delivered the wrong quantity. I am very satisfied with the staff, but the management is unacceptable. Goodbye, there won't be a second time."
+    },
+    {
+        "org_comment": "Bánh rất ngon ạ",
+        "reconstructed_comment": "The cake is very delicious.",
+        "eng_comment": "The cake is very delicious."
+    },
+    {
+        "org_comment": "Nay lại chạy deadline tại quán. Quá là đã luôn. Bánh Ngon quá chời, nhân viên còn dĩa huông nựa",
+        "reconstructed_comment": "Hôm nay lại phải chạy deadline tại quán. Thật là tuyệt vời. Bánh ngon quá trời, nhân viên còn dễ thương nữa.",
+        "eng_comment": "Today I have to meet a deadline at the cafe again. It's really wonderful. The cake is so delicious, and the staff are also very nice."
+    },
+    {
+        "org_comment": "Tốt đẹp vui",
+        "reconstructed_comment": "Tốt đẹp và vui vẻ.",
+        "eng_comment": "Good and happy."
+    },
+    {
+        "org_comment": "mới trải nghiệm dìa đánh giá liền, bánh ngon, giá theo mình thấy xứng đáng với chất lượng bánh ạ, nhân viên nhiệt tình",
+        "reconstructed_comment": "Mới trải nghiệm xong, mình đánh giá liền: bánh ngon, giá cả theo mình thấy là xứng đáng với chất lượng bánh. Nhân viên cũng rất nhiệt tình.",
+        "eng_comment": "Just finished the experience, here's my review: the cake is delicious, and I think the price is worth the quality of the cake. The staff is also very enthusiastic."
+    },
+    {
+        "org_comment": "Nhân viên thân thiện , có tài , nhanh nhiên 100 điểm , yêu cầu tăng lương ( khang) . Bánh cũng ngon và giá thành hợp lý nha .",
+        "reconstructed_comment": "Nhân viên thân thiện, có tài, nhanh nhẹn, xứng đáng 100 điểm. Tôi đề nghị tăng lương cho nhân viên (Khang). Bánh cũng ngon và giá thành hợp lý.",
+        "eng_comment": "Friendly, talented, and quick staff, deserving of 100 points. I suggest a raise for the employee (Khang). The cake is also delicious and reasonably priced."
+    },
+    {
+        "org_comment": "Bánh chất lượng. Nhân viên vui vẻ thân thiện",
+        "reconstructed_comment": "Bánh có chất lượng tốt. Nhân viên vui vẻ và thân thiện.",
+        "eng_comment": "The cake is of good quality. The staff is cheerful and friendly."
+    },
+    {
+        "org_comment": "Nhân viên nhanh nhẹn, có tài, cần được thăng chức ạ 🤣👀",
+        "reconstructed_comment": "Nhân viên này rất nhanh nhẹn và có tài, cần được xem xét thăng chức.",
+        "eng_comment": "This employee is very agile and talented, and should be considered for a promotion."
+    },
+    {
+        "org_comment": "Nv dth, bánh ngon",
+        "reconstructed_comment": "Ngon quá, bánh ngon.",
+        "eng_comment": "So delicious, the cake is tasty."
+    },
+    {
+        "org_comment": "Nvien dth, thân thiện. Bánh siu ngon😀🙂⭐️😦😂🤣😁🌧️",
+        "reconstructed_comment": "Nhân viên dễ thương, thân thiện. Bánh siêu ngon 😀🙂⭐️😦😂🤣😁🌧️",
+        "eng_comment": "The staff is cute and friendly. The cake is super delicious."
+    },
+    {
+        "org_comment": "bánh ngon, mềm, không gian thoáng, nhân viên rất nhiệt tình dễ thương sẽ quay lại vào một ngày không xaaa , mong quán tăng lương nhân viên tên Khanggg vì sự nhiệt tình của bạnn.",
+        "reconstructed_comment": "Bánh ngon, mềm, không gian thoáng, nhân viên rất nhiệt tình và dễ thương. Tôi sẽ quay lại vào một ngày không xa. Mong quán tăng lương cho nhân viên tên Khang vì sự nhiệt tình của bạn ấy.",
+        "eng_comment": "The cake is delicious and soft, the space is airy, and the staff are very enthusiastic and lovely. I will come back one day soon. I hope the shop gives a raise to the employee named Khang for his enthusiasm."
+    },
+    {
+        "org_comment": "Bánh ngon , nhân viên thân thiện , tăng lương gấp ( khang và khan)",
+        "reconstructed_comment": "Bánh ngon, nhân viên thân thiện, cần tăng lương gấp (Khang và Khan).",
+        "eng_comment": "Delicious cakes, friendly staff, need an urgent salary increase (Khang and Khan)."
+    },
+    {
+        "org_comment": "Nhân viên 10đ, nhiệt tình lắm á (nhất là bạn nam tên Khang thì phải), bánh nhìn cũng xinh nữa",
+        "reconstructed_comment": "Nhân viên rất tốt, nhiệt tình lắm, đặc biệt là bạn nam tên Khang thì phải. Bánh cũng trông rất xinh.",
+        "eng_comment": "The staff is very good and enthusiastic, especially the male staff member named Khang, I think. The cakes also look very nice."
+    },
+    {
+        "org_comment": "Nhân viên thân thiện ( khang )",
+        "reconstructed_comment": "Nhân viên thân thiện (Khang)",
+        "eng_comment": "Friendly staff (Khang)"
+    },
+    {
+        "org_comment": "Bánh ngon , nhân viên dễ thương ( khang)",
+        "reconstructed_comment": "The cake is delicious, and the staff, especially Khang, is very friendly.",
+        "eng_comment": "The cake is delicious, and the staff, especially Khang, is very friendly."
+    },
+    {
+        "org_comment": "tiệm bánh xinh nha, anh nhân viên tên Khang cute nhiệt tình cực kì luôn, mn đến ủng hộ nhìu để mấy ảnh được tăng lương nha 😇",
+        "reconstructed_comment": "Tiệm bánh rất xinh, anh nhân viên tên Khang rất dễ thương và nhiệt tình. Mọi người hãy đến ủng hộ nhiều để các anh ấy được tăng lương nhé. 😇",
+        "eng_comment": "The bakery is very cute, and the staff member named Khang is very nice and enthusiastic. Everyone, please come and support them a lot so they can get a raise."
+    },
+    {
+        "org_comment": "Tôi thấy tiệm bánh bán giá vừa. Ăn ngon ăn được.",
+        "reconstructed_comment": "Tôi thấy tiệm bánh bán với giá hợp lý. Bánh ở đây ăn ngon và dễ ăn.",
+        "eng_comment": "I find the bakery sells at a reasonable price. The cakes here are delicious and easy to eat."
+    },
+    {
+        "org_comment": "Bánh ngon xĩu , nhviên lại còn nhiệt tình dễ thương đẹp zai =))))",
+        "reconstructed_comment": "Bánh rất ngon, nhân viên lại còn nhiệt tình, dễ thương và đẹp trai.",
+        "eng_comment": "The cake is very delicious, and the staff are enthusiastic, lovely, and handsome."
+    },
+    {
+        "org_comment": "Bánh ngon, nhân viên nhiệt tình. Nên ghé ạ 😍😍",
+        "reconstructed_comment": "The cakes are delicious, and the staff is enthusiastic. You should visit! 😍😍",
+        "eng_comment": "The cakes are delicious, and the staff is enthusiastic. You should visit!"
+    },
+    {
+        "org_comment": "Bánh ngon, nhân viên nhiệt tình nhé",
+        "reconstructed_comment": "The cake is delicious, and the staff is enthusiastic.",
+        "eng_comment": "The cake is delicious, and the staff is enthusiastic."
+    },
+    {
+        "org_comment": "Bánh ăn siêu dính lại còn thân thiện với thú cưng nữa nha <3",
+        "reconstructed_comment": "The cake is super sticky and also pet-friendly <3",
+        "eng_comment": "The cake is super sticky and also pet-friendly."
+    },
+    {
+        "org_comment": "Bánh ngon",
+        "reconstructed_comment": "The cake is delicious.",
+        "eng_comment": "The cake is delicious."
+    },
+    {
+        "org_comment": "10 điểm",
+        "reconstructed_comment": "The phrase '10 điểm' translates to '10 points' in English. It is often used in Vietnamese to indicate a perfect score or to express high praise for something.",
+        "eng_comment": "The phrase '10 điểm' translates to '10 points' in English. It is often used in Vietnamese to indicate a perfect score or to express high praise for something."
+    },
+    {
+        "org_comment": "Bánh custard rất ngon\nNhân viên và chủ quán dễ thương\nRecommend ạ",
+        "reconstructed_comment": "The custard cake is very delicious. The staff and the owner are lovely. I recommend it!",
+        "eng_comment": "The custard cake is very delicious. The staff and the owner are lovely. I recommend it!"
+    },
+    {
+        "org_comment": "Trà sữa khá hợp khẩu vị với mình, NV nhiệt tình",
+        "reconstructed_comment": "Trà sữa khá hợp khẩu vị với mình, nhân viên nhiệt tình.",
+        "eng_comment": "The milk tea suits my taste quite well, and the staff is enthusiastic."
+    },
+    {
+        "org_comment": "Bánh ăn rất ngon đã mua nhiều lần",
+        "reconstructed_comment": "The cake is very delicious; I have bought it many times.",
+        "eng_comment": "The cake is very delicious; I have bought it many times."
+    },
+    {
+        "org_comment": "Vì một lần ngã xe trước cửa tiệm, nhân viên trong tiệm chạy ra đỡ lên rồi mình cũng vui vẻ gọi nước và bánh ủng hộ shop, nhân viên shop rất nhiệt tình và lịch sự đem bánh nước ra cho mình thì mình cảm nhận nước ở đây ngon đậm đà vị trà, bánh thơm với đặc biệt hơn, không gian thoải mái, mát mẻ, không bị ồn ào dễ làm việc và học tập",
+        "reconstructed_comment": "Một lần, tôi bị ngã xe trước cửa tiệm. Nhân viên trong tiệm đã nhanh chóng chạy ra đỡ tôi dậy. Để cảm ơn, tôi vui vẻ gọi nước và bánh để ủng hộ shop. Nhân viên ở đây rất nhiệt tình và lịch sự, họ mang bánh và nước ra cho tôi. Tôi cảm nhận được nước ở đây rất ngon, đậm đà vị trà, bánh thì thơm và đặc biệt. Không gian của tiệm thoải mái, mát mẻ, không bị ồn ào, rất thích hợp để làm việc và học tập.",
+        "eng_comment": "Once, I fell off my bike in front of the shop. The staff quickly came out to help me up. To show my gratitude, I happily ordered drinks and pastries to support the shop. The staff here are very enthusiastic and polite; they brought the pastries and drinks to me. I found the drinks here to be very delicious, with a rich tea flavor, and the pastries were fragrant and special. The shop's atmosphere is comfortable, cool, and not noisy, making it very suitable for working and studying."
+    },
+    {
+        "org_comment": "Bánh ngon",
+        "reconstructed_comment": "The cake is delicious.",
+        "eng_comment": "The cake is delicious."
+    },
+    {
+        "org_comment": "Nhân viên dễ thương",
+        "reconstructed_comment": "Nhân viên dễ thương",
+        "eng_comment": "Cute staff"
+    },
+    {
+        "org_comment": "Bánh ở đây ngonnn, đẹp, không quá ngọt, thơm. Mấy bánh mặn ăn cũng rất ưng luôn. Bánh to và bự nên ăn vừa bụng. ❤️❤️❤️❤️",
+        "reconstructed_comment": "Bánh ở đây rất ngon, đẹp, không quá ngọt và thơm. Các loại bánh mặn cũng rất ngon. Bánh to và lớn nên ăn rất vừa bụng. ❤️❤️❤️❤️",
+        "eng_comment": "The cakes here are very delicious, beautiful, not too sweet, and fragrant. The savory cakes are also very tasty. The cakes are big and filling."
+    },
+    {
+        "org_comment": "Bánh xinh bạn nhân viên thân thiện 5 sao ạ",
+        "reconstructed_comment": "Bánh rất xinh và nhân viên rất thân thiện, tôi đánh giá 5 sao.",
+        "eng_comment": "The cake is very pretty and the staff is very friendly, I rate it 5 stars."
+    },
+    {
+        "org_comment": "Custard siêu ngon nha, mouse matcha ngon",
+        "reconstructed_comment": "Custard rất ngon, và mousse matcha cũng ngon.",
+        "eng_comment": "Custard is very delicious, and the matcha mousse is also tasty."
+    },
+    {
+        "org_comment": "10 điểm",
+        "reconstructed_comment": "The phrase '10 điểm' translates to '10 points' in English. It is often used in Vietnamese to indicate a perfect score or to express high praise for something.",
+        "eng_comment": "The phrase '10 điểm' translates to '10 points' in English. It is often used in Vietnamese to indicate a perfect score or to express high praise for something."
+    },
+    {
+        "org_comment": "nhân viên 10 điểm ( tăng lương khang gấp :))))",
+        "reconstructed_comment": "Nhân viên này xứng đáng 10 điểm, hãy tăng lương cho Khang ngay! :))))",
+        "eng_comment": "This employee deserves a 10 out of 10, give Khang a raise immediately!"
+    },
+    {
+        "org_comment": "Bánh ngon và chất lượng",
+        "reconstructed_comment": "The cake is delicious and of high quality.",
+        "eng_comment": "The cake is delicious and of high quality."
+    },
+    {
+        "org_comment": "Phê",
+        "reconstructed_comment": "The word 'Phê' is a Vietnamese term that can mean 'intoxicated' or 'ecstatic', often used to describe a state of euphoria or excitement.",
+        "eng_comment": "The word 'Phê' is a Vietnamese term that can mean 'intoxicated' or 'ecstatic', often used to describe a state of euphoria or excitement."
+    },
+    {
+        "org_comment": "Sản phẩm tốt nhân viên 10đ yêu cầu tăng lương với thưởng tết cho nhân viên",
+        "reconstructed_comment": "Sản phẩm tốt, nhân viên được 10 điểm. Yêu cầu tăng lương và thưởng Tết cho nhân viên.",
+        "eng_comment": "Good product, staff get 10 points. Request for a salary increase and Tet bonus for the staff."
+    },
+    {
+        "org_comment": "nhân viên 10đ yêu cầu tăng lương liền ạ",
+        "reconstructed_comment": "Nhân viên được đánh giá 10 điểm yêu cầu tăng lương ngay lập tức ạ.",
+        "eng_comment": "The employee who was rated 10 points is requesting an immediate salary increase."
+    },
+    {
+        "org_comment": "Nhân viên 10 điểm, y/c tăng lương 😃",
+        "reconstructed_comment": "Nhân viên này rất xuất sắc, đề nghị tăng lương cho họ. 😃",
+        "eng_comment": "This employee is excellent, recommend giving them a raise."
+    },
+    {
+        "org_comment": "nhân viên dễ thương 10 điểm, bánh ngon nha",
+        "reconstructed_comment": "Nhân viên rất dễ thương, 10 điểm. Bánh cũng rất ngon nhé!",
+        "eng_comment": "The staff is very lovely, 10 points. The cake is also very delicious!"
+    },
+    {
+        "org_comment": "Bánh ngon và nhân viên thân thiện",
+        "reconstructed_comment": "The cake is delicious and the staff is friendly.",
+        "eng_comment": "The cake is delicious and the staff is friendly."
+    },
+    {
+        "org_comment": "Nhân viên 5 sao , yêu cầu tăng lương , tăng lương mạnh nha (nhân viên khang) , bánh ngon 10 điểm",
+        "reconstructed_comment": "Nhân viên 5 sao yêu cầu tăng lương, tăng lương mạnh nha (nhân viên Khang). Bánh ngon 10 điểm.",
+        "eng_comment": "Five-star employee requests a raise, a significant raise please (employee Khang). The cake is delicious, 10 points."
+    },
+    {
+        "org_comment": "Bánh rất ngon và nhân viên Khang cũng rất ngon và rất dễ thương . Yêu cầu chủ cửa hàng tăng lương cho nhân viên Khang",
+        "reconstructed_comment": "The cake is very delicious, and the staff member Khang is also very nice and charming. I request the shop owner to give Khang a raise.",
+        "eng_comment": "The cake is very delicious, and the staff member Khang is also very nice and charming. I request the shop owner to give Khang a raise."
+    },
+    {
+        "org_comment": "Bánh ngon lắm nha mọi người, mấy bạn nhân viên nhiệt tình, dễ thương nữa. Nên ghé ạ.",
+        "reconstructed_comment": "The cake is very delicious, everyone. The staff is enthusiastic and lovely. You should visit.",
+        "eng_comment": "The cake is very delicious, everyone. The staff is enthusiastic and lovely. You should visit."
+    },
+    {
+        "org_comment": "Bánh ngon, nvien dth",
+        "reconstructed_comment": "Bánh ngon, nhân viên dễ thương.",
+        "eng_comment": "Delicious cake, friendly staff."
+    },
+    {
+        "org_comment": "Đồ ăn ngon nước ok",
+        "reconstructed_comment": "Đồ ăn ngon, nước uống cũng ổn.",
+        "eng_comment": "The food is delicious, and the drinks are also good."
+    },
+    {
+        "org_comment": "Dịch vụ ổn, bánh kem tết trang trí rất đẹp. Must try!",
+        "reconstructed_comment": "Dịch vụ ổn, bánh kem Tết trang trí rất đẹp. Nhất định phải thử!",
+        "eng_comment": "The service is good, and the Tet cakes are beautifully decorated. Definitely a must-try!"
+    },
+    {
+        "org_comment": "Tiệm phục vụ dễ thương lém nha. Must try :33",
+        "reconstructed_comment": "Tiệm phục vụ rất dễ thương. Bạn nên thử nhé!",
+        "eng_comment": "The shop's service is very lovely. You should try it!"
+    },
+    {
+        "org_comment": "Good cake and pastry",
+        "reconstructed_comment": "The cake and pastry are delicious.",
+        "eng_comment": "The cake and pastry are delicious."
+    },
+    {
+        "org_comment": "Bánh ngon. Must try",
+        "reconstructed_comment": "The cake is delicious. It's a must-try.",
+        "eng_comment": "The cake is delicious. It's a must-try."
+    },
+    {
+        "org_comment": "Bánh ngon giá cả hợp lý, nhân viên tư vấn nhiệt tình",
+        "reconstructed_comment": "The cakes are delicious and reasonably priced, and the staff provides enthusiastic consultation.",
+        "eng_comment": "The cakes are delicious and reasonably priced, and the staff provides enthusiastic consultation."
+    },
+    {
+        "org_comment": "Tuyệt vời",
+        "reconstructed_comment": "Tuyệt vời",
+        "eng_comment": "Wonderful"
+    },
+    {
+        "org_comment": "Bánh ngon",
+        "reconstructed_comment": "Bánh này rất ngon.",
+        "eng_comment": "This cake is very delicious."
+    },
+    {
+        "org_comment": "10 điểm",
+        "reconstructed_comment": "\"10 điểm\" is a Vietnamese phrase that translates to \"10 points\" in English. It is often used to express a perfect score or excellent performance in various contexts, such as academics, sports, or competitions.",
+        "eng_comment": "\"10 điểm\" is a Vietnamese phrase that translates to \"10 points\" in English. It is often used to express a perfect score or excellent performance in various contexts, such as academics, sports, or competitions."
+    },
+    {
+        "org_comment": "Ngon quá mn ơi. Bánh xịn, nhân viên dễ thương, 10đ",
+        "reconstructed_comment": "Ngon quá mọi người ơi. Bánh rất xịn, nhân viên dễ thương, 10 điểm.",
+        "eng_comment": "So delicious, everyone. The cake is excellent, the staff is lovely, 10 points."
+    },
+    {
+        "org_comment": "Chill",
+        "reconstructed_comment": "The word 'chill' can refer to a feeling of coldness or a relaxed, easygoing attitude. It is often used informally to describe a calm and laid-back atmosphere or demeanor.",
+        "eng_comment": "The word 'chill' can refer to a feeling of coldness or a relaxed, easygoing attitude. It is often used informally to describe a calm and laid-back atmosphere or demeanor."
+    },
+    {
+        "org_comment": "Bánh ngon mà giá phải chăng lắm nè mọi người. Nên thử nha 😘😘🥰🥰❤️❤️",
+        "reconstructed_comment": "The cakes are delicious and very reasonably priced, everyone. You should try them! 😘😘🥰🥰❤️❤️",
+        "eng_comment": "The cakes are delicious and very reasonably priced, everyone. You should try them!"
+    },
+    {
+        "org_comment": "divine and delicious food, drink honestly",
+        "reconstructed_comment": "Enjoy divine and delicious food, and drink honestly.",
+        "eng_comment": "Enjoy divine and delicious food, and drink honestly."
+    },
+    {
+        "org_comment": "Ngon lém luôn",
+        "reconstructed_comment": "Ngon lắm luôn.",
+        "eng_comment": "It's very delicious."
+    },
+    {
+        "org_comment": "Love their custards, the best so far for me. I ordered a tea break set from them for my event and received great feedback from the attendees. If you’re looking for hygiene, professionalism, nice packaging, and, most importantly, tasty cakes, this is your go-to choice.",
+        "reconstructed_comment": "I absolutely love their custards; they are the best I've had so far. I ordered a tea break set from them for my event, and the attendees gave me great feedback. If you're looking for hygiene, professionalism, nice packaging, and, most importantly, delicious cakes, this is your go-to choice.",
+        "eng_comment": "I absolutely love their custards; they are the best I've had so far. I ordered a tea break set from them for my event, and the attendees gave me great feedback. If you're looking for hygiene, professionalism, nice packaging, and, most importantly, delicious cakes, this is your go-to choice."
+    },
+    {
+        "org_comment": "Đã nhiều lần dùng bữa và trở thành một trong những khách hàng thân thiết của quán mình cảm thấy vô cùng hài lòng về những khuyến mãi và về chất lượng dịch vụ mà quán mang tới cho khách hàng, đây sẽ là địa điểm phù hợp cho những bạn thích ăn bánh nhưng ít ngọt như mình 🫶🫶",
+        "reconstructed_comment": "Tôi đã nhiều lần dùng bữa và trở thành một trong những khách hàng thân thiết của quán. Tôi cảm thấy vô cùng hài lòng về những khuyến mãi và chất lượng dịch vụ mà quán mang tới cho khách hàng. Đây sẽ là địa điểm phù hợp cho những bạn thích ăn bánh nhưng ít ngọt như tôi. 🫶🫶",
+        "eng_comment": "I have dined here many times and have become one of the loyal customers of the restaurant. I feel extremely satisfied with the promotions and the quality of service that the restaurant offers to customers. This will be a suitable place for those who like cakes but prefer them less sweet, like me."
+    },
+    {
+        "org_comment": "Rcm mọi người thử bánh hạnh nhân và croissant chấm với trà sữa Aroma nha",
+        "reconstructed_comment": "I recommend everyone try almond pastries and croissants dipped in Aroma milk tea.",
+        "eng_comment": "I recommend everyone try almond pastries and croissants dipped in Aroma milk tea."
+    },
+    {
+        "org_comment": "Quán hơi nhỏ, kế bên tiệm xe nhưng bánh ngon hợp lý",
+        "reconstructed_comment": "The shop is a bit small and located next to a vehicle repair shop, but the pastries are delicious and reasonably priced.",
+        "eng_comment": "The shop is a bit small and located next to a vehicle repair shop, but the pastries are delicious and reasonably priced."
+    },
+    {
+        "org_comment": "bánh aroma vừa ngon vừa chất lượng. nhân viên cũng dễ thương và tận tâm nữa ạ.",
+        "reconstructed_comment": "The aroma cake is both delicious and of high quality. The staff are also friendly and dedicated.",
+        "eng_comment": "The aroma cake is both delicious and of high quality. The staff are also friendly and dedicated."
+    },
+    {
+        "org_comment": "Trở lại lần 2 vẫn không có gì chê.\nValue for money.\nTrà sữa được mua 1 tặng 1\nBánh tươi và tâm huyết",
+        "reconstructed_comment": "Quay lại lần thứ hai vẫn không có gì để chê. Đáng đồng tiền bát gạo. Trà sữa được khuyến mãi mua 1 tặng 1. Bánh tươi ngon và được làm với tâm huyết.",
+        "eng_comment": "Returning for the second time, there's still nothing to criticize. Worth every penny. The milk tea had a buy one get one free promotion. The cakes are fresh, delicious, and made with dedication."
+    },
+    {
+        "org_comment": "Hơi thất vọng nhẹ chút. Ngày 5/11 mình thấy trên fb nên ra tiệm mua 1 hộp ăn rất ngon, nhân đầy ụ. Thấy ngon quá tuần sau ngày 10/11 tới mua thì bị thất vọng. Bánh khô hơn, nhân bơm ít đi hẳn. Không biết sao lại bị đổi công thức hay do bánh hot quá nên mấy bạn nhân viên làm kh xuể khiến chất lượng kh đồng đều 😢 bùn hiu vì trải nghiệm lần đầu rất tốt mà lần sau kh ổn lắm 😭",
+        "reconstructed_comment": "Hơi thất vọng một chút. Ngày 5/11, mình thấy trên Facebook có quảng cáo nên ra tiệm mua một hộp bánh, ăn rất ngon, nhân đầy ụ. Thấy ngon quá nên tuần sau, ngày 10/11, mình tới mua thì bị thất vọng. Bánh khô hơn, nhân ít đi hẳn. Không biết tại sao lại bị đổi công thức hay do bánh quá hot nên các bạn nhân viên làm không xuể khiến chất lượng không đồng đều. Buồn vì trải nghiệm lần đầu rất tốt mà lần sau không ổn lắm.",
+        "eng_comment": "A bit disappointed. On November 5th, I saw an advertisement on Facebook, so I went to the store to buy a box of cakes, which were very delicious and filled with lots of filling. They were so good that the following week, on November 10th, I went to buy them again but was disappointed. The cakes were drier, and the filling was significantly less. I don't know if the recipe was changed or if the cakes were too popular, causing the staff to be overwhelmed and resulting in inconsistent quality. It's sad because the first experience was very good, but the next time wasn't as great."
+    },
+    {
+        "org_comment": "Bánh ngon vị socola với matcha rõ vị, bằng giá mua ở siêu thị",
+        "reconstructed_comment": "The cake has a delicious chocolate flavor with a distinct matcha taste, priced the same as in the supermarket.",
+        "eng_comment": "The cake has a delicious chocolate flavor with a distinct matcha taste, priced the same as in the supermarket."
+    },
+    {
+        "org_comment": "Bánh rất ngon, dịch vụ rất tốt, cô chủ nhiệt tình và giá cả phù hợp với tất cả mọi người.",
+        "reconstructed_comment": "The cake is delicious, the service is excellent, the owner is enthusiastic, and the prices are suitable for everyone.",
+        "eng_comment": "The cake is delicious, the service is excellent, the owner is enthusiastic, and the prices are suitable for everyone."
+    },
+    {
+        "org_comment": "Bánh ngon\nGiá cả hợp lý phù hợp cho các bạn sinh viên",
+        "reconstructed_comment": "Bánh ngon với giá cả hợp lý, phù hợp cho các bạn sinh viên.",
+        "eng_comment": "Delicious cakes at reasonable prices, suitable for students."
+    },
+    {
+        "org_comment": "Bánh chuối ngon. Ngọt vừa.",
+        "reconstructed_comment": "Bánh chuối rất ngon và có độ ngọt vừa phải.",
+        "eng_comment": "Banana cake is very delicious and has a moderate sweetness."
+    },
+    {
+        "org_comment": "Bánh rất ngon. Đáng đồng tiền lắm luôn.\nNước trà Yuzu và trà Nhiệt đới nhìn thì giống nhau nhưng vị khác hẳn. Độc lạ Aroma thật",
+        "reconstructed_comment": "Bánh rất ngon, đáng đồng tiền lắm. Nước trà Yuzu và trà Nhiệt đới nhìn thì giống nhau nhưng vị lại khác hẳn. Hương vị độc lạ thật.",
+        "eng_comment": "The cake is very delicious, really worth the money. The Yuzu tea and Tropical tea look similar but taste completely different. The flavor is truly unique."
+    },
+    {
+        "org_comment": "bánh ngonn, đặc biệt là bánh phomai rất mlem mlem nha, latte rất ukiee nhaa\n+10 đỉm không gian quán rất chilllll",
+        "reconstructed_comment": "Bánh ngon, đặc biệt là bánh phô mai rất ngon, latte cũng rất ổn. Không gian quán rất thoải mái, tôi cho 10 điểm.",
+        "eng_comment": "The cake is delicious, especially the cheesecake which is very tasty, and the latte is also quite good. The cafe's space is very comfortable, I give it 10 points."
+    },
+    {
+        "org_comment": "Cafe cacao kem muối ngon nè, bánh okla.. must try",
+        "reconstructed_comment": "Cà phê cacao kem muối ngon nè, bánh ok lắm. Phải thử!",
+        "eng_comment": "Salted cream cocoa coffee is delicious, the cake is quite good. Must try!"
+    },
+    {
+        "org_comment": "The cakes were very mouth-watering and eye-catching, totally luv it",
+        "reconstructed_comment": "The cakes were incredibly mouth-watering and visually appealing. I absolutely loved them.",
+        "eng_comment": "The cakes were incredibly mouth-watering and visually appealing. I absolutely loved them."
+    },
+    {
+        "org_comment": "The baked goods here are delicious.\nThe workers here are nice and kind.\nThe inside is clean and modern.\nPerfect place to study or just get a nice bite to eat. Just a nice small local bakery to visit while you’re in the area !",
+        "reconstructed_comment": "The baked goods here are delicious, and the workers are nice and kind. The interior is clean and modern, making it a perfect place to study or enjoy a nice bite to eat. It's a lovely small local bakery to visit while you're in the area!",
+        "eng_comment": "The baked goods here are delicious, and the workers are nice and kind. The interior is clean and modern, making it a perfect place to study or enjoy a nice bite to eat. It's a lovely small local bakery to visit while you're in the area!"
+    },
+    {
+        "org_comment": "Mình vô tình ghé ngang qua tiệm và dùng thử bánh, lúc đầu mình không mong chờ gì nhiều nhưng nó ngon hơn so với dự định của mình, một tiệm bánh mình sẽ note lại trong sổ tay của mình và mình sẽ thường xuyên tới.",
+        "reconstructed_comment": "Tôi vô tình ghé qua tiệm và thử bánh. Ban đầu, tôi không mong đợi nhiều, nhưng bánh ngon hơn tôi tưởng. Đây là một tiệm bánh mà tôi sẽ ghi chú lại trong sổ tay và sẽ thường xuyên ghé thăm.",
+        "eng_comment": "I accidentally stopped by the shop and tried the cake. Initially, I didn't expect much, but the cake was better than I thought. This is a bakery that I will note down in my notebook and will visit regularly."
+    },
+    {
+        "org_comment": "We ordered a selection of cakes for our office and everything was delicious. Great service and taste",
+        "reconstructed_comment": "We ordered a variety of cakes for our office, and everything was delicious. The service and taste were great.",
+        "eng_comment": "We ordered a variety of cakes for our office, and everything was delicious. The service and taste were great."
+    }
+]
