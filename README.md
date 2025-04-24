@@ -64,3 +64,9 @@ This dataset can be used for:
 4. Customer Experience Mapping: Understanding the customer journey and pain points
 
 The paired nature of the dataset (input and evaluation) makes it valuable for training and validating sentiment analysis models, especially for Vietnamese language processing in the food service industry context.
+
+## Data Availability
+
+Currently, we just provide the data with full label of 253 data points.
+
+For full access of the labels of 20442 customer's comments, please contact sangngoc27042001@gmail.com
